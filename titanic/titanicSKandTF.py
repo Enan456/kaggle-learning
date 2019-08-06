@@ -13,6 +13,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import random
 #ln 6-7 in order to have it work in a file think and not ipython
 """ from IPython import get_ipython
 get_ipython().run_line_magic('matplotlib', 'inline') """
@@ -316,6 +317,7 @@ def train_nn_regression_model(
   return dnn_regressor
 
 #run regressor
+training_examples = training_examples.fillna("unknown")
 training_targets = training_targets.fillna("unknown")
 validation_examples = validation_examples.fillna("unknown")
 validation_targets = validation_targets.fillna("unknown")
@@ -323,7 +325,7 @@ export_csv = training_targets.to_csv (r'/home/enron/Documents/kaggle-learning/ti
 export_csv = validation_examples.to_csv (r'/home/enron/Documents/kaggle-learning/titanic/csv_dump/pre_dnn_validation_examples.csv', index = None, header=True)
 export_csv = validation_targets.to_csv (r'/home/enron/Documents/kaggle-learning/titanic/csv_dump/pre_dnn_validation_target.csv', index = None, header=True)
 
-dnn_regressor = train_nn_regression_model(learning_rate=0.02, steps=400,
+dnn_regressor = train_nn_regression_model(learning_rate=0.02, steps=10,
     batch_size=10, hidden_units=[8, 6, 4, 2], 
     training_examples=training_examples, training_targets=training_targets,
     validation_examples=validation_examples, validation_targets=validation_targets)

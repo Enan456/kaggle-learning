@@ -1,892 +1,892 @@
-PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
-1,0,3,"Braund, Mr. Owen Harris",male,Student,1,0,A/5 21171,1_quartile,N,S
-2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,Adult,1,0,PC 17599,4_quartile,C,C
-3,1,3,"Heikkinen, Miss. Laina",female,Young Adult,0,0,STON/O2. 3101282,1_quartile,N,S
-4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,Young Adult,1,0,113803,4_quartile,C,S
-5,0,3,"Allen, Mr. William Henry",male,Young Adult,0,0,373450,2_quartile,N,S
-6,0,3,"Moran, Mr. James",male,Unknown,0,0,330877,2_quartile,N,Q
-7,0,1,"McCarthy, Mr. Timothy J",male,Adult,0,0,17463,4_quartile,E,S
-8,0,3,"Palsson, Master. Gosta Leonard",male,Baby,3,1,349909,3_quartile,N,S
-9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,Young Adult,0,2,347742,2_quartile,N,S
-10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,Teenager,1,0,237736,3_quartile,N,C
-11,1,3,"Sandstrom, Miss. Marguerite Rut",female,Baby,1,1,PP 9549,3_quartile,G,S
-12,1,1,"Bonnell, Miss. Elizabeth",female,Adult,0,0,113783,3_quartile,C,S
-13,0,3,"Saundercock, Mr. William Henry",male,Student,0,0,A/5. 2151,2_quartile,N,S
-14,0,3,"Andersson, Mr. Anders Johan",male,Adult,1,5,347082,4_quartile,N,S
-15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,Teenager,0,0,350406,1_quartile,N,S
-16,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,Adult,0,0,248706,3_quartile,N,S
-17,0,3,"Rice, Master. Eugene",male,Baby,4,1,382652,3_quartile,N,Q
-18,1,2,"Williams, Mr. Charles Eugene",male,Unknown,0,0,244373,2_quartile,N,S
-19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,Young Adult,1,0,345763,3_quartile,N,S
-20,1,3,"Masselmani, Mrs. Fatima",female,Unknown,0,0,2649,1_quartile,N,C
-21,0,2,"Fynney, Mr. Joseph J",male,Young Adult,0,0,239865,3_quartile,N,S
-22,1,2,"Beesley, Mr. Lawrence",male,Young Adult,0,0,248698,2_quartile,D,S
-23,1,3,"McGowan, Miss. Anna ""Annie""",female,Teenager,0,0,330923,2_quartile,N,Q
-24,1,1,"Sloper, Mr. William Thompson",male,Young Adult,0,0,113788,4_quartile,A,S
-25,0,3,"Palsson, Miss. Torborg Danira",female,Child,3,1,349909,3_quartile,N,S
-26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,Adult,1,5,347077,4_quartile,N,S
-27,0,3,"Emir, Mr. Farred Chehab",male,Unknown,0,0,2631,1_quartile,N,C
-28,0,1,"Fortune, Mr. Charles Alexander",male,Student,3,2,19950,4_quartile,C,S
-29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,Unknown,0,0,330959,1_quartile,N,Q
-30,0,3,"Todoroff, Mr. Lalio",male,Unknown,0,0,349216,1_quartile,N,S
-31,0,1,"Uruchurtu, Don. Manuel E",male,Adult,0,0,PC 17601,3_quartile,N,C
-32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,Unknown,1,0,PC 17569,4_quartile,B,C
-33,1,3,"Glynn, Miss. Mary Agatha",female,Unknown,0,0,335677,1_quartile,N,Q
-34,0,2,"Wheadon, Mr. Edward H",male,Senior,0,0,C.A. 24579,2_quartile,N,S
-35,0,1,"Meyer, Mr. Edgar Joseph",male,Young Adult,1,0,PC 17604,4_quartile,N,C
-36,0,1,"Holverson, Mr. Alexander Oskar",male,Adult,1,0,113789,4_quartile,N,S
-37,1,3,"Mamee, Mr. Hanna",male,Unknown,0,0,2677,1_quartile,N,C
-38,0,3,"Cann, Mr. Ernest Charles",male,Student,0,0,A./5. 2152,2_quartile,N,S
-39,0,3,"Vander Planke, Miss. Augusta Maria",female,Teenager,2,0,345764,3_quartile,N,S
-40,1,3,"Nicola-Yarred, Miss. Jamila",female,Teenager,1,0,2651,2_quartile,N,C
-41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,Adult,1,0,7546,2_quartile,N,S
-42,0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,Young Adult,1,0,11668,3_quartile,N,S
-43,0,3,"Kraeff, Mr. Theodor",male,Unknown,0,0,349253,1_quartile,N,C
-44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",female,Baby,1,2,SC/Paris 2123,4_quartile,N,C
-45,1,3,"Devaney, Miss. Margaret Delia",female,Student,0,0,330958,1_quartile,N,Q
-46,0,3,"Rogers, Mr. William John",male,Unknown,0,0,S.C./A.4. 23567,2_quartile,N,S
-47,0,3,"Lennon, Mr. Denis",male,Unknown,1,0,370371,3_quartile,N,Q
-48,1,3,"O'Driscoll, Miss. Bridget",female,Unknown,0,0,14311,1_quartile,N,Q
-49,0,3,"Samaan, Mr. Youssef",male,Unknown,2,0,2662,3_quartile,N,C
-50,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,Teenager,1,0,349237,3_quartile,N,S
-51,0,3,"Panula, Master. Juha Niilo",male,Child,4,1,3101295,4_quartile,N,S
-52,0,3,"Nosworthy, Mr. Richard Cater",male,Student,0,0,A/4. 39886,1_quartile,N,S
-53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,Adult,1,0,PC 17572,4_quartile,D,C
-54,1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,Young Adult,1,0,2926,3_quartile,N,S
-55,0,1,"Ostby, Mr. Engelhart Cornelius",male,Senior,0,1,113509,4_quartile,B,C
-56,1,1,"Woolner, Mr. Hugh",male,Unknown,0,0,19947,4_quartile,C,S
-57,1,2,"Rugg, Miss. Emily",female,Student,0,0,C.A. 31026,2_quartile,N,S
-58,0,3,"Novel, Mr. Mansouer",male,Young Adult,0,0,2697,1_quartile,N,C
-59,1,2,"West, Miss. Constance Mirium",female,Baby,1,2,C.A. 34651,3_quartile,N,S
-60,0,3,"Goodwin, Master. William Frederick",male,Child,5,2,CA 2144,4_quartile,N,S
-61,0,3,"Sirayanian, Mr. Orsen",male,Student,0,0,2669,1_quartile,N,C
-62,1,1,"Icard, Miss. Amelie",female,Adult,0,0,113572,4_quartile,B,
-63,0,1,"Harris, Mr. Henry Birkhardt",male,Adult,1,0,36973,4_quartile,C,S
-64,0,3,"Skoog, Master. Harald",male,Baby,3,2,347088,3_quartile,N,S
-65,0,1,"Stewart, Mr. Albert A",male,Unknown,0,0,PC 17605,3_quartile,N,C
-66,1,3,"Moubarek, Master. Gerios",male,Unknown,1,1,2661,3_quartile,N,C
-67,1,2,"Nye, Mrs. (Elizabeth Ramell)",female,Young Adult,0,0,C.A. 29395,2_quartile,F,S
-68,0,3,"Crease, Mr. Ernest James",male,Student,0,0,S.P. 3464,2_quartile,N,S
-69,1,3,"Andersson, Miss. Erna Alexandra",female,Teenager,4,2,3101281,1_quartile,N,S
-70,0,3,"Kink, Mr. Vincenz",male,Young Adult,2,0,315151,2_quartile,N,S
-71,0,2,"Jenkin, Mr. Stephen Curnow",male,Young Adult,0,0,C.A. 33111,2_quartile,N,S
-72,0,3,"Goodwin, Miss. Lillian Amy",female,Teenager,5,2,CA 2144,4_quartile,N,S
-73,0,2,"Hood, Mr. Ambrose Jr",male,Student,0,0,S.O.C. 14879,4_quartile,N,S
-74,0,3,"Chronopoulos, Mr. Apostolos",male,Young Adult,1,0,2680,2_quartile,N,C
-75,1,3,"Bing, Mr. Lee",male,Young Adult,0,0,1601,4_quartile,N,S
-76,0,3,"Moen, Mr. Sigurd Hansen",male,Student,0,0,348123,1_quartile,F,S
-77,0,3,"Staneff, Mr. Ivan",male,Unknown,0,0,349208,1_quartile,N,S
-78,0,3,"Moutal, Mr. Rahamin Haim",male,Unknown,0,0,374746,2_quartile,N,S
-79,1,2,"Caldwell, Master. Alden Gates",male,Baby,0,2,248738,3_quartile,N,S
-80,1,3,"Dowdell, Miss. Elizabeth",female,Young Adult,0,0,364516,2_quartile,N,S
-81,0,3,"Waelens, Mr. Achille",male,Student,0,0,345767,2_quartile,N,S
-82,1,3,"Sheerlinck, Mr. Jan Baptist",male,Young Adult,0,0,345779,2_quartile,N,S
-83,1,3,"McDermott, Miss. Brigdet Delia",female,Unknown,0,0,330932,1_quartile,N,Q
-84,0,1,"Carrau, Mr. Francisco M",male,Young Adult,0,0,113059,4_quartile,N,S
-85,1,2,"Ilett, Miss. Bertha",female,Teenager,0,0,SO/C 14885,2_quartile,N,S
-86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,Young Adult,3,0,3101278,3_quartile,N,S
-87,0,3,"Ford, Mr. William Neal",male,Teenager,1,3,W./C. 6608,4_quartile,N,S
-88,0,3,"Slocovski, Mr. Selman Francis",male,Unknown,0,0,SOTON/OQ 392086,2_quartile,N,S
-89,1,1,"Fortune, Miss. Mabel Helen",female,Student,3,2,19950,4_quartile,C,S
-90,0,3,"Celotti, Mr. Francesco",male,Student,0,0,343275,2_quartile,N,S
-91,0,3,"Christmann, Mr. Emil",male,Young Adult,0,0,343276,2_quartile,N,S
-92,0,3,"Andreasson, Mr. Paul Edvin",male,Student,0,0,347466,1_quartile,N,S
-93,0,1,"Chaffee, Mr. Herbert Fuller",male,Adult,1,0,W.E.P. 5734,4_quartile,E,S
-94,0,3,"Dean, Mr. Bertram Frank",male,Young Adult,1,2,C.A. 2315,3_quartile,N,S
-95,0,3,"Coxon, Mr. Daniel",male,Adult,0,0,364500,1_quartile,N,S
-96,0,3,"Shorney, Mr. Charles Joseph",male,Unknown,0,0,374910,2_quartile,N,S
-97,0,1,"Goldschmidt, Mr. George B",male,Senior,0,0,PC 17754,4_quartile,A,C
-98,1,1,"Greenfield, Mr. William Bertram",male,Student,0,1,PC 17759,4_quartile,D,C
-99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",female,Young Adult,0,1,231919,3_quartile,N,S
-100,0,2,"Kantor, Mr. Sinai",male,Young Adult,1,0,244367,3_quartile,N,S
-101,0,3,"Petranec, Miss. Matilda",female,Young Adult,0,0,349245,1_quartile,N,S
-102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,Unknown,0,0,349215,1_quartile,N,S
-103,0,1,"White, Mr. Richard Frasar",male,Student,0,1,35281,4_quartile,D,S
-104,0,3,"Johansson, Mr. Gustaf Joel",male,Young Adult,0,0,7540,2_quartile,N,S
-105,0,3,"Gustafsson, Mr. Anders Vilhelm",male,Adult,2,0,3101276,1_quartile,N,S
-106,0,3,"Mionoff, Mr. Stoytcho",male,Young Adult,0,0,349207,1_quartile,N,S
-107,1,3,"Salkjelsvik, Miss. Anna Kristine",female,Student,0,0,343120,1_quartile,N,S
-108,1,3,"Moss, Mr. Albert Johan",male,Unknown,0,0,312991,1_quartile,N,S
-109,0,3,"Rekic, Mr. Tido",male,Adult,0,0,349249,1_quartile,N,S
-110,1,3,"Moran, Miss. Bertha",female,Unknown,1,0,371110,3_quartile,N,Q
-111,0,1,"Porter, Mr. Walter Chamberlain",male,Adult,0,0,110465,4_quartile,C,S
-112,0,3,"Zabour, Miss. Hileni",female,Teenager,1,0,2665,2_quartile,N,C
-113,0,3,"Barton, Mr. David John",male,Student,0,0,324669,2_quartile,N,S
-114,0,3,"Jussila, Miss. Katriina",female,Student,1,0,4136,2_quartile,N,S
-115,0,3,"Attalah, Miss. Malake",female,Teenager,0,0,2627,2_quartile,N,C
-116,0,3,"Pekoniemi, Mr. Edvard",male,Student,0,0,STON/O 2. 3101294,1_quartile,N,S
-117,0,3,"Connors, Mr. Patrick",male,Senior,0,0,370369,1_quartile,N,Q
-118,0,2,"Turpin, Mr. William John Robert",male,Young Adult,1,0,11668,3_quartile,N,S
-119,0,1,"Baxter, Mr. Quigg Edmond",male,Student,0,1,PC 17558,4_quartile,B,C
-120,0,3,"Andersson, Miss. Ellis Anna Maria",female,Baby,4,2,347082,4_quartile,N,S
-121,0,2,"Hickman, Mr. Stanley George",male,Student,2,0,S.O.C. 14879,4_quartile,N,S
-122,0,3,"Moore, Mr. Leonard Charles",male,Unknown,0,0,A4. 54510,2_quartile,N,S
-123,0,2,"Nasser, Mr. Nicholas",male,Young Adult,1,0,237736,3_quartile,N,C
-124,1,2,"Webber, Miss. Susan",female,Young Adult,0,0,27267,2_quartile,E,S
-125,0,1,"White, Mr. Percival Wayland",male,Adult,0,1,35281,4_quartile,D,S
-126,1,3,"Nicola-Yarred, Master. Elias",male,Child,1,0,2651,2_quartile,N,C
-127,0,3,"McMahon, Mr. Martin",male,Unknown,0,0,370372,1_quartile,N,Q
-128,1,3,"Madsen, Mr. Fridtjof Arne",male,Student,0,0,C 17369,1_quartile,N,S
-129,1,3,"Peter, Miss. Anna",female,Unknown,1,1,2668,3_quartile,F,C
-130,0,3,"Ekstrom, Mr. Johan",male,Adult,0,0,347061,1_quartile,N,S
-131,0,3,"Drazenoic, Mr. Jozef",male,Young Adult,0,0,349241,1_quartile,N,C
-132,0,3,"Coelho, Mr. Domingos Fernandeo",male,Student,0,0,SOTON/O.Q. 3101307,1_quartile,N,S
-133,0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,Adult,1,0,A/5. 3337,2_quartile,N,S
-134,1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,Young Adult,1,0,228414,3_quartile,N,S
-135,0,2,"Sobey, Mr. Samuel James Hayden",male,Student,0,0,C.A. 29178,2_quartile,N,S
-136,0,2,"Richard, Mr. Emile",male,Student,0,0,SC/PARIS 2133,3_quartile,N,C
-137,1,1,"Newsom, Miss. Helen Monypeny",female,Student,0,2,11752,3_quartile,D,S
-138,0,1,"Futrelle, Mr. Jacques Heath",male,Adult,1,0,113803,4_quartile,C,S
-139,0,3,"Osen, Mr. Olaf Elon",male,Teenager,0,0,7534,2_quartile,N,S
-140,0,1,"Giglio, Mr. Victor",male,Student,0,0,PC 17593,4_quartile,B,C
-141,0,3,"Boulos, Mrs. Joseph (Sultana)",female,Unknown,0,2,2678,3_quartile,N,C
-142,1,3,"Nysten, Miss. Anna Sofia",female,Student,0,0,347081,1_quartile,N,S
-143,1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,Student,1,0,STON/O2. 3101279,3_quartile,N,S
-144,0,3,"Burke, Mr. Jeremiah",male,Student,0,0,365222,1_quartile,N,Q
-145,0,2,"Andrew, Mr. Edgardo Samuel",male,Teenager,0,0,231945,2_quartile,N,S
-146,0,2,"Nicholls, Mr. Joseph Charles",male,Student,1,1,C.A. 33112,4_quartile,N,S
-147,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,Young Adult,0,0,350043,1_quartile,N,S
-148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,Child,2,2,W./C. 6608,4_quartile,N,S
-149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,Adult,0,2,230080,3_quartile,F,S
-150,0,2,"Byles, Rev. Thomas Roussel Davids",male,Adult,0,0,244310,2_quartile,N,S
-151,0,2,"Bateman, Rev. Robert James",male,Adult,0,0,S.O.P. 1166,2_quartile,N,S
-152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,Student,1,0,113776,4_quartile,C,S
-153,0,3,"Meo, Mr. Alfonzo",male,Adult,0,0,A.5. 11206,2_quartile,N,S
-154,0,3,"van Billiard, Mr. Austin Blyler",male,Adult,0,2,A/5. 851,2_quartile,N,S
-155,0,3,"Olsen, Mr. Ole Martin",male,Unknown,0,0,Fa 265302,1_quartile,N,S
-156,0,1,"Williams, Mr. Charles Duane",male,Adult,0,1,PC 17597,4_quartile,N,C
-157,1,3,"Gilnagh, Miss. Katherine ""Katie""",female,Teenager,0,0,35851,1_quartile,N,Q
-158,0,3,"Corn, Mr. Harry",male,Young Adult,0,0,SOTON/OQ 392090,2_quartile,N,S
-159,0,3,"Smiljanic, Mr. Mile",male,Unknown,0,0,315037,2_quartile,N,S
-160,0,3,"Sage, Master. Thomas Henry",male,Unknown,8,2,CA. 2343,4_quartile,N,S
-161,0,3,"Cribb, Mr. John Hatfield",male,Adult,0,1,371362,3_quartile,N,S
-162,1,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,Adult,0,0,C.A. 33595,3_quartile,N,S
-163,0,3,"Bengtsson, Mr. John Viktor",male,Young Adult,0,0,347068,1_quartile,N,S
-164,0,3,"Calic, Mr. Jovo",male,Teenager,0,0,315093,2_quartile,N,S
-165,0,3,"Panula, Master. Eino Viljami",male,Baby,4,1,3101295,4_quartile,N,S
-166,1,3,"Goldsmith, Master. Frank John William ""Frankie""",male,Child,0,2,363291,3_quartile,N,S
-167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,Unknown,0,1,113505,4_quartile,E,S
-168,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,Adult,1,4,347088,3_quartile,N,S
-169,0,1,"Baumann, Mr. John D",male,Unknown,0,0,PC 17318,3_quartile,N,S
-170,0,3,"Ling, Mr. Lee",male,Young Adult,0,0,1601,4_quartile,N,S
-171,0,1,"Van der hoef, Mr. Wyckoff",male,Senior,0,0,111240,4_quartile,B,S
-172,0,3,"Rice, Master. Arthur",male,Baby,4,1,382652,3_quartile,N,Q
-173,1,3,"Johnson, Miss. Eleanor Ileen",female,Baby,1,1,347742,2_quartile,N,S
-174,0,3,"Sivola, Mr. Antti Wilhelm",male,Student,0,0,STON/O 2. 3101280,1_quartile,N,S
-175,0,1,"Smith, Mr. James Clinch",male,Adult,0,0,17764,3_quartile,A,C
-176,0,3,"Klasen, Mr. Klas Albin",male,Teenager,1,1,350404,1_quartile,N,S
-177,0,3,"Lefebre, Master. Henry Forbes",male,Unknown,3,1,4133,3_quartile,N,S
-178,0,1,"Isham, Miss. Ann Elizabeth",female,Adult,0,0,PC 17595,3_quartile,C,C
-179,0,2,"Hale, Mr. Reginald",male,Young Adult,0,0,250653,2_quartile,N,S
-180,0,3,"Leonard, Mr. Lionel",male,Adult,0,0,LINE,Unknown,N,S
-181,0,3,"Sage, Miss. Constance Gladys",female,Unknown,8,2,CA. 2343,4_quartile,N,S
-182,0,2,"Pernot, Mr. Rene",male,Unknown,0,0,SC/PARIS 2131,3_quartile,N,C
-183,0,3,"Asplund, Master. Clarence Gustaf Hugo",male,Child,4,2,347077,4_quartile,N,S
-184,1,2,"Becker, Master. Richard F",male,Baby,2,1,230136,4_quartile,F,S
-185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",female,Baby,0,2,315153,3_quartile,N,S
-186,0,1,"Rood, Mr. Hugh Roscoe",male,Unknown,0,0,113767,4_quartile,A,S
-187,1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,Unknown,1,0,370365,3_quartile,N,Q
-188,1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,Adult,0,0,111428,3_quartile,N,S
-189,0,3,"Bourke, Mr. John",male,Adult,1,1,364849,3_quartile,N,Q
-190,0,3,"Turcin, Mr. Stjepan",male,Adult,0,0,349247,1_quartile,N,S
-191,1,2,"Pinsky, Mrs. (Rosa)",female,Young Adult,0,0,234604,2_quartile,N,S
-192,0,2,"Carbines, Mr. William",male,Student,0,0,28424,2_quartile,N,S
-193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,Student,1,0,350046,1_quartile,N,S
-194,1,2,"Navratil, Master. Michel M",male,Baby,1,1,230080,3_quartile,F,S
-195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,Adult,0,0,PC 17610,3_quartile,B,C
-196,1,1,"Lurette, Miss. Elise",female,Adult,0,0,PC 17569,4_quartile,B,C
-197,0,3,"Mernagh, Mr. Robert",male,Unknown,0,0,368703,1_quartile,N,Q
-198,0,3,"Olsen, Mr. Karl Siegwart Andreas",male,Adult,0,1,4579,2_quartile,N,S
-199,1,3,"Madigan, Miss. Margaret ""Maggie""",female,Unknown,0,0,370370,1_quartile,N,Q
-200,0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,Student,0,0,248747,2_quartile,N,S
-201,0,3,"Vande Walle, Mr. Nestor Cyriel",male,Young Adult,0,0,345770,2_quartile,N,S
-202,0,3,"Sage, Mr. Frederick",male,Unknown,8,2,CA. 2343,4_quartile,N,S
-203,0,3,"Johanson, Mr. Jakob Alfred",male,Young Adult,0,0,3101264,1_quartile,N,S
-204,0,3,"Youseff, Mr. Gerious",male,Adult,0,0,2628,1_quartile,N,C
-205,1,3,"Cohen, Mr. Gurshon ""Gus""",male,Teenager,0,0,A/5 3540,2_quartile,N,S
-206,0,3,"Strom, Miss. Telma Matilda",female,Baby,0,1,347054,2_quartile,G,S
-207,0,3,"Backstrom, Mr. Karl Alfred",male,Young Adult,1,0,3101278,3_quartile,N,S
-208,1,3,"Albimona, Mr. Nassef Cassem",male,Young Adult,0,0,2699,3_quartile,N,C
-209,1,3,"Carr, Miss. Helen ""Ellen""",female,Teenager,0,0,367231,1_quartile,N,Q
-210,1,1,"Blank, Mr. Henry",male,Adult,0,0,112277,3_quartile,A,C
-211,0,3,"Ali, Mr. Ahmed",male,Student,0,0,SOTON/O.Q. 3101311,1_quartile,N,S
-212,1,2,"Cameron, Miss. Clear Annie",female,Young Adult,0,0,F.C.C. 13528,3_quartile,N,S
-213,0,3,"Perkin, Mr. John Henry",male,Student,0,0,A/5 21174,1_quartile,N,S
-214,0,2,"Givard, Mr. Hans Kristensen",male,Young Adult,0,0,250646,2_quartile,N,S
-215,0,3,"Kiernan, Mr. Philip",male,Unknown,1,0,367229,1_quartile,N,Q
-216,1,1,"Newell, Miss. Madeleine",female,Young Adult,1,0,35273,4_quartile,D,C
-217,1,3,"Honkanen, Miss. Eliina",female,Young Adult,0,0,STON/O2. 3101283,1_quartile,N,S
-218,0,2,"Jacobsohn, Mr. Sidney Samuel",male,Adult,1,0,243847,3_quartile,N,S
-219,1,1,"Bazzani, Miss. Albina",female,Young Adult,0,0,11813,4_quartile,D,C
-220,0,2,"Harris, Mr. Walter",male,Young Adult,0,0,W/C 14208,2_quartile,N,S
-221,1,3,"Sunderland, Mr. Victor Francis",male,Teenager,0,0,SOTON/OQ 392089,2_quartile,N,S
-222,0,2,"Bracken, Mr. James H",male,Young Adult,0,0,220367,2_quartile,N,S
-223,0,3,"Green, Mr. George Henry",male,Adult,0,0,21440,2_quartile,N,S
-224,0,3,"Nenkoff, Mr. Christo",male,Unknown,0,0,349234,1_quartile,N,S
-225,1,1,"Hoyt, Mr. Frederick Maxfield",male,Adult,1,0,19943,4_quartile,C,S
-226,0,3,"Berglund, Mr. Karl Ivar Sven",male,Student,0,0,PP 4348,2_quartile,N,S
-227,1,2,"Mellors, Mr. William John",male,Student,0,0,SW/PP 751,2_quartile,N,S
-228,0,3,"Lovell, Mr. John Hall (""Henry"")",male,Student,0,0,A/5 21173,1_quartile,N,S
-229,0,2,"Fahlstrom, Mr. Arne Jonas",male,Teenager,0,0,236171,2_quartile,N,S
-230,0,3,"Lefebre, Miss. Mathilde",female,Unknown,3,1,4133,3_quartile,N,S
-231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,Young Adult,1,0,36973,4_quartile,C,S
-232,0,3,"Larsson, Mr. Bengt Edvin",male,Young Adult,0,0,347067,1_quartile,N,S
-233,0,2,"Sjostedt, Mr. Ernst Adolf",male,Adult,0,0,237442,2_quartile,N,S
-234,1,3,"Asplund, Miss. Lillian Gertrud",female,Baby,4,2,347077,4_quartile,N,S
-235,0,2,"Leyson, Mr. Robert William Norman",male,Student,0,0,C.A. 29566,2_quartile,N,S
-236,0,3,"Harknett, Miss. Alice Phoebe",female,Unknown,0,0,W./C. 6609,1_quartile,N,S
-237,0,2,"Hold, Mr. Stephen",male,Adult,1,0,26707,3_quartile,N,S
-238,1,2,"Collyer, Miss. Marjorie ""Lottie""",female,Child,0,2,C.A. 31921,3_quartile,N,S
-239,0,2,"Pengelly, Mr. Frederick William",male,Student,0,0,28665,2_quartile,N,S
-240,0,2,"Hunt, Mr. George Henry",male,Young Adult,0,0,SCO/W 1585,2_quartile,N,S
-241,0,3,"Zabour, Miss. Thamine",female,Unknown,1,0,2665,2_quartile,N,C
-242,1,3,"Murphy, Miss. Katherine ""Kate""",female,Unknown,1,0,367230,3_quartile,N,Q
-243,0,2,"Coleridge, Mr. Reginald Charles",male,Young Adult,0,0,W./C. 14263,2_quartile,N,S
-244,0,3,"Maenpaa, Mr. Matti Alexanteri",male,Student,0,0,STON/O 2. 3101275,1_quartile,N,S
-245,0,3,"Attalah, Mr. Sleiman",male,Young Adult,0,0,2694,1_quartile,N,C
-246,0,1,"Minahan, Dr. William Edward",male,Adult,2,0,19928,4_quartile,C,Q
-247,0,3,"Lindahl, Miss. Agda Thorilda Viktoria",female,Student,0,0,347071,1_quartile,N,S
-248,1,2,"Hamalainen, Mrs. William (Anna)",female,Student,0,2,250649,2_quartile,N,S
-249,1,1,"Beckwith, Mr. Richard Leonard",male,Adult,1,1,11751,4_quartile,D,S
-250,0,2,"Carter, Rev. Ernest Courtenay",male,Adult,1,0,244252,3_quartile,N,S
-251,0,3,"Reed, Mr. James George",male,Unknown,0,0,362316,1_quartile,N,S
-252,0,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,Young Adult,1,1,347054,2_quartile,G,S
-253,0,1,"Stead, Mr. William Thomas",male,Senior,0,0,113514,3_quartile,C,S
-254,0,3,"Lobb, Mr. William Arthur",male,Young Adult,1,0,A/5. 3336,3_quartile,N,S
-255,0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,Adult,0,2,370129,3_quartile,N,S
-256,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,Young Adult,0,2,2650,3_quartile,N,C
-257,1,1,"Thorne, Mrs. Gertrude Maybelle",female,Unknown,0,0,PC 17585,4_quartile,N,C
-258,1,1,"Cherry, Miss. Gladys",female,Young Adult,0,0,110152,4_quartile,B,S
-259,1,1,"Ward, Miss. Anna",female,Young Adult,0,0,PC 17755,4_quartile,N,C
-260,1,2,"Parrish, Mrs. (Lutie Davis)",female,Adult,0,1,230433,3_quartile,N,S
-261,0,3,"Smith, Mr. Thomas",male,Unknown,0,0,384461,1_quartile,N,Q
-262,1,3,"Asplund, Master. Edvin Rojj Felix",male,Baby,4,2,347077,4_quartile,N,S
-263,0,1,"Taussig, Mr. Emil",male,Adult,1,1,110413,4_quartile,E,S
-264,0,1,"Harrison, Mr. William",male,Adult,0,0,112059,Unknown,B,S
-265,0,3,"Henry, Miss. Delia",female,Unknown,0,0,382649,1_quartile,N,Q
-266,0,2,"Reeves, Mr. David",male,Adult,0,0,C.A. 17248,2_quartile,N,S
-267,0,3,"Panula, Mr. Ernesti Arvid",male,Teenager,4,1,3101295,4_quartile,N,S
-268,1,3,"Persson, Mr. Ernst Ulrik",male,Student,1,0,347083,1_quartile,N,S
-269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,Adult,0,1,PC 17582,4_quartile,C,S
-270,1,1,"Bissette, Miss. Amelia",female,Young Adult,0,0,PC 17760,4_quartile,C,S
-271,0,1,"Cairns, Mr. Alexander",male,Unknown,0,0,113798,3_quartile,N,S
-272,1,3,"Tornquist, Mr. William Henry",male,Student,0,0,LINE,Unknown,N,S
-273,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,Adult,0,1,250644,3_quartile,N,S
-274,0,1,"Natsch, Mr. Charles H",male,Adult,0,1,PC 17596,3_quartile,C,C
-275,1,3,"Healy, Miss. Hanora ""Nora""",female,Unknown,0,0,370375,1_quartile,N,Q
-276,1,1,"Andrews, Miss. Kornelia Theodosia",female,Senior,1,0,13502,4_quartile,D,S
-277,0,3,"Lindblom, Miss. Augusta Charlotta",female,Adult,0,0,347073,1_quartile,N,S
-278,0,2,"Parkes, Mr. Francis ""Frank""",male,Unknown,0,0,239853,Unknown,N,S
-279,0,3,"Rice, Master. Eric",male,Child,4,1,382652,3_quartile,N,Q
-280,1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,Young Adult,1,1,C.A. 2673,3_quartile,N,S
-281,0,3,"Duane, Mr. Frank",male,Senior,0,0,336439,1_quartile,N,Q
-282,0,3,"Olsson, Mr. Nils Johan Goransson",male,Young Adult,0,0,347464,1_quartile,N,S
-283,0,3,"de Pelsmaeker, Mr. Alfons",male,Teenager,0,0,345778,2_quartile,N,S
-284,1,3,"Dorking, Mr. Edward Arthur",male,Student,0,0,A/5. 10482,2_quartile,N,S
-285,0,1,"Smith, Mr. Richard William",male,Unknown,0,0,113056,3_quartile,A,S
-286,0,3,"Stankovic, Mr. Ivan",male,Young Adult,0,0,349239,2_quartile,N,C
-287,1,3,"de Mulder, Mr. Theodore",male,Young Adult,0,0,345774,2_quartile,N,S
-288,0,3,"Naidenoff, Mr. Penko",male,Student,0,0,349206,1_quartile,N,S
-289,1,2,"Hosono, Mr. Masabumi",male,Adult,0,0,237798,2_quartile,N,S
-290,1,3,"Connolly, Miss. Kate",female,Student,0,0,370373,1_quartile,N,Q
-291,1,1,"Barber, Miss. Ellen ""Nellie""",female,Young Adult,0,0,19877,4_quartile,N,S
-292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,Student,1,0,11967,4_quartile,B,C
-293,0,2,"Levy, Mr. Rene Jacques",male,Adult,0,0,SC/Paris 2163,2_quartile,D,C
-294,0,3,"Haas, Miss. Aloisia",female,Student,0,0,349236,2_quartile,N,S
-295,0,3,"Mineff, Mr. Ivan",male,Student,0,0,349233,1_quartile,N,S
-296,0,1,"Lewy, Mr. Ervin G",male,Unknown,0,0,PC 17612,3_quartile,N,C
-297,0,3,"Hanna, Mr. Mansour",male,Student,0,0,2693,1_quartile,N,C
-298,0,1,"Allison, Miss. Helen Loraine",female,Baby,1,2,113781,4_quartile,C,S
-299,1,1,"Saalfeld, Mr. Adolphe",male,Unknown,0,0,19988,3_quartile,C,S
-300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,Adult,0,1,PC 17558,4_quartile,B,C
-301,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,Unknown,0,0,9234,1_quartile,N,Q
-302,1,3,"McCoy, Mr. Bernard",male,Unknown,2,0,367226,3_quartile,N,Q
-303,0,3,"Johnson, Mr. William Cahoone Jr",male,Student,0,0,LINE,Unknown,N,S
-304,1,2,"Keane, Miss. Nora A",female,Unknown,0,0,226593,2_quartile,E,Q
-305,0,3,"Williams, Mr. Howard Hugh ""Harry""",male,Unknown,0,0,A/5 2466,2_quartile,N,S
-306,1,1,"Allison, Master. Hudson Trevor",male,Baby,1,2,113781,4_quartile,C,S
-307,1,1,"Fleming, Miss. Margaret",female,Unknown,0,0,17421,4_quartile,N,C
-308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,Teenager,1,0,PC 17758,4_quartile,C,C
-309,0,2,"Abelson, Mr. Samuel",male,Young Adult,1,0,P/PP 3381,3_quartile,N,C
-310,1,1,"Francatelli, Miss. Laura Mabel",female,Young Adult,0,0,PC 17485,4_quartile,E,C
-311,1,1,"Hays, Miss. Margaret Bechstein",female,Student,0,0,11767,4_quartile,C,C
-312,1,1,"Ryerson, Miss. Emily Borie",female,Teenager,2,2,PC 17608,4_quartile,B,C
-313,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",female,Young Adult,1,1,250651,3_quartile,N,S
-314,0,3,"Hendekovic, Mr. Ignjac",male,Young Adult,0,0,349243,1_quartile,N,S
-315,0,2,"Hart, Mr. Benjamin",male,Adult,1,1,F.C.C. 13529,3_quartile,N,S
-316,1,3,"Nilsson, Miss. Helmina Josefina",female,Young Adult,0,0,347470,1_quartile,N,S
-317,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,Student,1,0,244367,3_quartile,N,S
-318,0,2,"Moraweck, Dr. Ernest",male,Adult,0,0,29011,2_quartile,N,S
-319,1,1,"Wick, Miss. Mary Natalie",female,Young Adult,0,2,36928,4_quartile,C,S
-320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,Adult,1,1,16966,4_quartile,E,C
-321,0,3,"Dennis, Mr. Samuel",male,Student,0,0,A/5 21172,1_quartile,N,S
-322,0,3,"Danoff, Mr. Yoto",male,Young Adult,0,0,349219,1_quartile,N,S
-323,1,2,"Slayter, Miss. Hilda Mary",female,Young Adult,0,0,234818,2_quartile,N,Q
-324,1,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,Student,1,1,248738,3_quartile,N,S
-325,0,3,"Sage, Mr. George John Jr",male,Unknown,8,2,CA. 2343,4_quartile,N,S
-326,1,1,"Young, Miss. Marie Grice",female,Adult,0,0,PC 17760,4_quartile,C,C
-327,0,3,"Nysveen, Mr. Johan Hansen",male,Senior,0,0,345364,1_quartile,N,S
-328,1,2,"Ball, Mrs. (Ada E Hall)",female,Adult,0,0,28551,2_quartile,D,S
-329,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,Young Adult,1,1,363291,3_quartile,N,S
-330,1,1,"Hippach, Miss. Jean Gertrude",female,Teenager,0,1,111361,4_quartile,B,C
-331,1,3,"McCoy, Miss. Agnes",female,Unknown,2,0,367226,3_quartile,N,Q
-332,0,1,"Partner, Mr. Austen",male,Adult,0,0,113043,3_quartile,C,S
-333,0,1,"Graham, Mr. George Edward",male,Adult,0,1,PC 17582,4_quartile,C,S
-334,0,3,"Vander Planke, Mr. Leo Edmondus",male,Teenager,2,0,345764,3_quartile,N,S
-335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,Unknown,1,0,PC 17611,4_quartile,N,S
-336,0,3,"Denkoff, Mr. Mitto",male,Unknown,0,0,349225,1_quartile,N,S
-337,0,1,"Pears, Mr. Thomas Clinton",male,Young Adult,1,0,113776,4_quartile,C,S
-338,1,1,"Burns, Miss. Elizabeth Margaret",female,Adult,0,0,16966,4_quartile,E,C
-339,1,3,"Dahl, Mr. Karl Edwart",male,Adult,0,0,7598,2_quartile,N,S
-340,0,1,"Blackwell, Mr. Stephen Weart",male,Adult,0,0,113784,4_quartile,T,S
-341,1,2,"Navratil, Master. Edmond Roger",male,Baby,1,1,230080,3_quartile,F,S
-342,1,1,"Fortune, Miss. Alice Elizabeth",female,Student,3,2,19950,4_quartile,C,S
-343,0,2,"Collander, Mr. Erik Gustaf",male,Young Adult,0,0,248740,2_quartile,N,S
-344,0,2,"Sedgwick, Mr. Charles Frederick Waddington",male,Student,0,0,244361,2_quartile,N,S
-345,0,2,"Fox, Mr. Stanley Hubert",male,Adult,0,0,229236,2_quartile,N,S
-346,1,2,"Brown, Miss. Amelia ""Mildred""",female,Student,0,0,248733,2_quartile,F,S
-347,1,2,"Smith, Miss. Marion Elsie",female,Adult,0,0,31418,2_quartile,N,S
-348,1,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,Unknown,1,0,386525,3_quartile,N,S
-349,1,3,"Coutts, Master. William Loch ""William""",male,Baby,1,1,C.A. 37671,3_quartile,N,S
-350,0,3,"Dimic, Mr. Jovan",male,Adult,0,0,315088,2_quartile,N,S
-351,0,3,"Odahl, Mr. Nils Martin",male,Student,0,0,7267,2_quartile,N,S
-352,0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,Unknown,0,0,113510,4_quartile,C,S
-353,0,3,"Elias, Mr. Tannous",male,Teenager,1,1,2695,1_quartile,N,C
-354,0,3,"Arnold-Franchi, Mr. Josef",male,Student,1,0,349237,3_quartile,N,S
-355,0,3,"Yousif, Mr. Wazli",male,Unknown,0,0,2647,1_quartile,N,C
-356,0,3,"Vanden Steen, Mr. Leo Peter",male,Young Adult,0,0,345783,2_quartile,N,S
-357,1,1,"Bowerman, Miss. Elsie Edith",female,Student,0,1,113505,4_quartile,E,S
-358,0,2,"Funk, Miss. Annie Clemmer",female,Adult,0,0,237671,2_quartile,N,S
-359,1,3,"McGovern, Miss. Mary",female,Unknown,0,0,330931,1_quartile,N,Q
-360,1,3,"Mockler, Miss. Helen Mary ""Ellie""",female,Unknown,0,0,330980,1_quartile,N,Q
-361,0,3,"Skoog, Mr. Wilhelm",male,Adult,1,4,347088,3_quartile,N,S
-362,0,2,"del Carlo, Mr. Sebastiano",male,Young Adult,1,0,SC/PARIS 2167,3_quartile,N,C
-363,0,3,"Barbara, Mrs. (Catherine David)",female,Adult,0,1,2691,2_quartile,N,C
-364,0,3,"Asim, Mr. Adola",male,Young Adult,0,0,SOTON/O.Q. 3101310,1_quartile,N,S
-365,0,3,"O'Brien, Mr. Thomas",male,Unknown,1,0,370365,3_quartile,N,Q
-366,0,3,"Adahl, Mr. Mauritz Nils Martin",male,Young Adult,0,0,C 7076,1_quartile,N,S
-367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,Adult,1,0,110813,4_quartile,D,C
-368,1,3,"Moussa, Mrs. (Mantoura Boulos)",female,Unknown,0,0,2626,1_quartile,N,C
-369,1,3,"Jermyn, Miss. Annie",female,Unknown,0,0,14313,1_quartile,N,Q
-370,1,1,"Aubart, Mme. Leontine Pauline",female,Student,0,0,PC 17477,4_quartile,B,C
-371,1,1,"Harder, Mr. George Achilles",male,Student,1,0,11765,4_quartile,E,C
-372,0,3,"Wiklund, Mr. Jakob Alfred",male,Teenager,1,0,3101267,1_quartile,N,S
-373,0,3,"Beavan, Mr. William Thomas",male,Student,0,0,323951,2_quartile,N,S
-374,0,1,"Ringhini, Mr. Sante",male,Student,0,0,PC 17760,4_quartile,N,C
-375,0,3,"Palsson, Miss. Stina Viola",female,Baby,3,1,349909,3_quartile,N,S
-376,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,Unknown,1,0,PC 17604,4_quartile,N,C
-377,1,3,"Landergren, Miss. Aurora Adelia",female,Student,0,0,C 7077,1_quartile,N,S
-378,0,1,"Widener, Mr. Harry Elkins",male,Young Adult,0,2,113503,4_quartile,C,C
-379,0,3,"Betros, Mr. Tannous",male,Student,0,0,2648,1_quartile,N,C
-380,0,3,"Gustafsson, Mr. Karl Gideon",male,Student,0,0,347069,1_quartile,N,S
-381,1,1,"Bidois, Miss. Rosalie",female,Adult,0,0,PC 17757,4_quartile,N,C
-382,1,3,"Nakid, Miss. Maria (""Mary"")",female,Baby,0,2,2653,3_quartile,N,C
-383,0,3,"Tikkanen, Mr. Juho",male,Young Adult,0,0,STON/O 2. 3101293,1_quartile,N,S
-384,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,Young Adult,1,0,113789,4_quartile,N,S
-385,0,3,"Plotcharsky, Mr. Vasil",male,Unknown,0,0,349227,1_quartile,N,S
-386,0,2,"Davies, Mr. Charles Henry",male,Teenager,0,0,S.O.C. 14879,4_quartile,N,S
-387,0,3,"Goodwin, Master. Sidney Leonard",male,Baby,5,2,CA 2144,4_quartile,N,S
-388,1,2,"Buss, Miss. Kate",female,Adult,0,0,27849,2_quartile,N,S
-389,0,3,"Sadlier, Mr. Matthew",male,Unknown,0,0,367655,1_quartile,N,Q
-390,1,2,"Lehmann, Miss. Bertha",female,Teenager,0,0,SC 1748,2_quartile,N,C
-391,1,1,"Carter, Mr. William Ernest",male,Adult,1,2,113760,4_quartile,B,S
-392,1,3,"Jansson, Mr. Carl Olof",male,Student,0,0,350034,1_quartile,N,S
-393,0,3,"Gustafsson, Mr. Johan Birger",male,Young Adult,2,0,3101277,1_quartile,N,S
-394,1,1,"Newell, Miss. Marjorie",female,Student,1,0,35273,4_quartile,D,C
-395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,Student,0,2,PP 9549,3_quartile,G,S
-396,0,3,"Johansson, Mr. Erik",male,Student,0,0,350052,1_quartile,N,S
-397,0,3,"Olsson, Miss. Elina",female,Young Adult,0,0,350407,1_quartile,N,S
-398,0,2,"McKane, Mr. Peter David",male,Adult,0,0,28403,3_quartile,N,S
-399,0,2,"Pain, Dr. Alfred",male,Student,0,0,244278,2_quartile,N,S
-400,1,2,"Trout, Mrs. William H (Jessie L)",female,Young Adult,0,0,240929,2_quartile,N,S
-401,1,3,"Niskanen, Mr. Juha",male,Adult,0,0,STON/O 2. 3101289,1_quartile,N,S
-402,0,3,"Adams, Mr. John",male,Young Adult,0,0,341826,2_quartile,N,S
-403,0,3,"Jussila, Miss. Mari Aina",female,Student,1,0,4137,2_quartile,N,S
-404,0,3,"Hakkarainen, Mr. Pekka Pietari",male,Young Adult,1,0,STON/O2. 3101279,3_quartile,N,S
-405,0,3,"Oreskovic, Miss. Marija",female,Student,0,0,315096,2_quartile,N,S
-406,0,2,"Gale, Mr. Shadrach",male,Young Adult,1,0,28664,3_quartile,N,S
-407,0,3,"Widegren, Mr. Carl/Charles Peter",male,Adult,0,0,347064,1_quartile,N,S
-408,1,2,"Richards, Master. William Rowe",male,Baby,1,1,29106,3_quartile,N,S
-409,0,3,"Birkeland, Mr. Hans Martin Monsen",male,Student,0,0,312992,1_quartile,N,S
-410,0,3,"Lefebre, Miss. Ida",female,Unknown,3,1,4133,3_quartile,N,S
-411,0,3,"Sdycoff, Mr. Todor",male,Unknown,0,0,349222,1_quartile,N,S
-412,0,3,"Hart, Mr. Henry",male,Unknown,0,0,394140,1_quartile,N,Q
-413,1,1,"Minahan, Miss. Daisy E",female,Young Adult,1,0,19928,4_quartile,C,Q
-414,0,2,"Cunningham, Mr. Alfred Fleming",male,Unknown,0,0,239853,Unknown,N,S
-415,1,3,"Sundman, Mr. Johan Julian",male,Adult,0,0,STON/O 2. 3101269,1_quartile,N,S
-416,0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,Unknown,0,0,343095,2_quartile,N,S
-417,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,Young Adult,1,1,28220,4_quartile,N,S
-418,1,2,"Silven, Miss. Lyyli Karoliina",female,Teenager,0,2,250652,2_quartile,N,S
-419,0,2,"Matthews, Mr. William John",male,Young Adult,0,0,28228,2_quartile,N,S
-420,0,3,"Van Impe, Miss. Catharina",female,Child,0,2,345773,3_quartile,N,S
-421,0,3,"Gheorgheff, Mr. Stanio",male,Unknown,0,0,349254,1_quartile,N,C
-422,0,3,"Charters, Mr. David",male,Student,0,0,A/5. 13032,1_quartile,N,Q
-423,0,3,"Zimmerman, Mr. Leo",male,Young Adult,0,0,315082,1_quartile,N,S
-424,0,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,Young Adult,1,1,347080,2_quartile,N,S
-425,0,3,"Rosblom, Mr. Viktor Richard",male,Teenager,1,1,370129,3_quartile,N,S
-426,0,3,"Wiseman, Mr. Phillippe",male,Unknown,0,0,A/4. 34244,1_quartile,N,S
-427,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,Young Adult,1,0,2003,3_quartile,N,S
-428,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,Student,0,0,250655,3_quartile,N,S
-429,0,3,"Flynn, Mr. James",male,Unknown,0,0,364851,1_quartile,N,Q
-430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",male,Young Adult,0,0,SOTON/O.Q. 392078,2_quartile,E,S
-431,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,Young Adult,0,0,110564,3_quartile,C,S
-432,1,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,Unknown,1,0,376564,3_quartile,N,S
-433,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,Adult,1,0,SC/AH 3085,3_quartile,N,S
-434,0,3,"Kallio, Mr. Nikolai Erland",male,Teenager,0,0,STON/O 2. 3101274,1_quartile,N,S
-435,0,1,"Silvey, Mr. William Baird",male,Adult,1,0,13507,4_quartile,E,S
-436,1,1,"Carter, Miss. Lucile Polk",female,Teenager,1,2,113760,4_quartile,B,S
-437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,Student,2,2,W./C. 6608,4_quartile,N,S
-438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",female,Student,2,3,29106,3_quartile,N,S
-439,0,1,"Fortune, Mr. Mark",male,Senior,1,4,19950,4_quartile,C,S
-440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",male,Young Adult,0,0,C.A. 18723,2_quartile,N,S
-441,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,Adult,1,1,F.C.C. 13529,3_quartile,N,S
-442,0,3,"Hampe, Mr. Leon",male,Student,0,0,345769,2_quartile,N,S
-443,0,3,"Petterson, Mr. Johan Emil",male,Student,1,0,347076,1_quartile,N,S
-444,1,2,"Reynaldo, Ms. Encarnacion",female,Young Adult,0,0,230434,2_quartile,N,S
-445,1,3,"Johannesen-Bratthammer, Mr. Bernt",male,Unknown,0,0,65306,2_quartile,N,S
-446,1,1,"Dodge, Master. Washington",male,Baby,0,2,33638,4_quartile,A,S
-447,1,2,"Mellinger, Miss. Madeleine Violet",female,Teenager,0,1,250644,3_quartile,N,S
-448,1,1,"Seward, Mr. Frederic Kimber",male,Young Adult,0,0,113794,3_quartile,N,S
-449,1,3,"Baclini, Miss. Marie Catherine",female,Baby,2,1,2666,3_quartile,N,C
-450,1,1,"Peuchen, Major. Arthur Godfrey",male,Adult,0,0,113786,3_quartile,C,S
-451,0,2,"West, Mr. Edwy Arthur",male,Adult,1,2,C.A. 34651,3_quartile,N,S
-452,0,3,"Hagland, Mr. Ingvald Olai Olsen",male,Unknown,1,0,65303,3_quartile,N,S
-453,0,1,"Foreman, Mr. Benjamin Laventall",male,Young Adult,0,0,113051,3_quartile,C,C
-454,1,1,"Goldenberg, Mr. Samuel L",male,Adult,1,0,17453,4_quartile,C,C
-455,0,3,"Peduzzi, Mr. Joseph",male,Unknown,0,0,A/5 2817,2_quartile,N,S
-456,1,3,"Jalsevac, Mr. Ivan",male,Young Adult,0,0,349240,1_quartile,N,C
-457,0,1,"Millet, Mr. Francis Davis",male,Senior,0,0,13509,3_quartile,E,S
-458,1,1,"Kenyon, Mrs. Frederick R (Marion)",female,Unknown,1,0,17464,4_quartile,D,S
-459,1,2,"Toomey, Miss. Ellen",female,Adult,0,0,F.C.C. 13531,2_quartile,N,S
-460,0,3,"O'Connor, Mr. Maurice",male,Unknown,0,0,371060,1_quartile,N,Q
-461,1,1,"Anderson, Mr. Harry",male,Adult,0,0,19952,3_quartile,E,S
-462,0,3,"Morley, Mr. William",male,Young Adult,0,0,364506,2_quartile,N,S
-463,0,1,"Gee, Mr. Arthur H",male,Adult,0,0,111320,4_quartile,E,S
-464,0,2,"Milling, Mr. Jacob Christian",male,Adult,0,0,234360,2_quartile,N,S
-465,0,3,"Maisner, Mr. Simon",male,Unknown,0,0,A/S 2816,2_quartile,N,S
-466,0,3,"Goncalves, Mr. Manuel Estanslas",male,Adult,0,0,SOTON/O.Q. 3101306,1_quartile,N,S
-467,0,2,"Campbell, Mr. William",male,Unknown,0,0,239853,Unknown,N,S
-468,0,1,"Smart, Mr. John Montgomery",male,Adult,0,0,113792,3_quartile,N,S
-469,0,3,"Scanlan, Mr. James",male,Unknown,0,0,36209,1_quartile,N,Q
-470,1,3,"Baclini, Miss. Helene Barbara",female,Baby,2,1,2666,3_quartile,N,C
-471,0,3,"Keefe, Mr. Arthur",male,Unknown,0,0,323592,1_quartile,N,S
-472,0,3,"Cacic, Mr. Luka",male,Adult,0,0,315089,2_quartile,N,S
-473,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,Young Adult,1,2,C.A. 34651,3_quartile,N,S
-474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,Student,0,0,SC/AH Basle 541,2_quartile,D,C
-475,0,3,"Strandberg, Miss. Ida Sofia",female,Student,0,0,7553,2_quartile,N,S
-476,0,1,"Clifford, Mr. George Quincy",male,Unknown,0,0,110465,4_quartile,A,S
-477,0,2,"Renouf, Mr. Peter Henry",male,Young Adult,1,0,31027,3_quartile,N,S
-478,0,3,"Braund, Mr. Lewis Richard",male,Young Adult,1,0,3460,1_quartile,N,S
-479,0,3,"Karlsson, Mr. Nils August",male,Student,0,0,350060,1_quartile,N,S
-480,1,3,"Hirvonen, Miss. Hildur E",female,Baby,0,1,3101298,2_quartile,N,S
-481,0,3,"Goodwin, Master. Harold Victor",male,Child,5,2,CA 2144,4_quartile,N,S
-482,0,2,"Frost, Mr. Anthony Wood ""Archie""",male,Unknown,0,0,239854,Unknown,N,S
-483,0,3,"Rouse, Mr. Richard Henry",male,Adult,0,0,A/5 3594,2_quartile,N,S
-484,1,3,"Turkula, Mrs. (Hedwig)",female,Senior,0,0,4134,2_quartile,N,S
-485,1,1,"Bishop, Mr. Dickinson H",male,Student,1,0,11967,4_quartile,B,C
-486,0,3,"Lefebre, Miss. Jeannie",female,Unknown,3,1,4133,3_quartile,N,S
-487,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,Young Adult,1,0,19943,4_quartile,C,S
-488,0,1,"Kent, Mr. Edward Austin",male,Adult,0,0,11771,3_quartile,B,C
-489,0,3,"Somerton, Mr. Francis William",male,Young Adult,0,0,A.5. 18509,2_quartile,N,S
-490,1,3,"Coutts, Master. Eden Leslie ""Neville""",male,Child,1,1,C.A. 37671,3_quartile,N,S
-491,0,3,"Hagland, Mr. Konrad Mathias Reiersen",male,Unknown,1,0,65304,3_quartile,N,S
-492,0,3,"Windelov, Mr. Einar",male,Student,0,0,SOTON/OQ 3101317,1_quartile,N,S
-493,0,1,"Molson, Mr. Harry Markland",male,Adult,0,0,113787,3_quartile,C,S
-494,0,1,"Artagaveytia, Mr. Ramon",male,Senior,0,0,PC 17609,4_quartile,N,C
-495,0,3,"Stanley, Mr. Edward Roland",male,Student,0,0,A/4 45380,2_quartile,N,S
-496,0,3,"Yousseff, Mr. Gerious",male,Unknown,0,0,2627,2_quartile,N,C
-497,1,1,"Eustis, Miss. Elizabeth Mussey",female,Adult,1,0,36947,4_quartile,D,C
-498,0,3,"Shellard, Mr. Frederick William",male,Unknown,0,0,C.A. 6212,3_quartile,N,S
-499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,Student,1,2,113781,4_quartile,C,S
-500,0,3,"Svensson, Mr. Olof",male,Student,0,0,350035,1_quartile,N,S
-501,0,3,"Calic, Mr. Petar",male,Teenager,0,0,315086,2_quartile,N,S
-502,0,3,"Canavan, Miss. Mary",female,Student,0,0,364846,1_quartile,N,Q
-503,0,3,"O'Sullivan, Miss. Bridget Mary",female,Unknown,0,0,330909,1_quartile,N,Q
-504,0,3,"Laitinen, Miss. Kristina Sofia",female,Adult,0,0,4135,2_quartile,N,S
-505,1,1,"Maioni, Miss. Roberta",female,Teenager,0,0,110152,4_quartile,B,S
-506,0,1,"Penasco y Castellana, Mr. Victor de Satode",male,Teenager,1,0,PC 17758,4_quartile,C,C
-507,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,Young Adult,0,2,26360,3_quartile,N,S
-508,1,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,Unknown,0,0,111427,3_quartile,N,S
-509,0,3,"Olsen, Mr. Henry Margido",male,Young Adult,0,0,C 4001,3_quartile,N,S
-510,1,3,"Lang, Mr. Fang",male,Young Adult,0,0,1601,4_quartile,N,S
-511,1,3,"Daly, Mr. Eugene Patrick",male,Young Adult,0,0,382651,1_quartile,N,Q
-512,0,3,"Webber, Mr. James",male,Unknown,0,0,SOTON/OQ 3101316,2_quartile,N,S
-513,1,1,"McGough, Mr. James Robert",male,Adult,0,0,PC 17473,3_quartile,E,S
-514,1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,Adult,1,0,PC 17603,4_quartile,N,C
-515,0,3,"Coleff, Mr. Satio",male,Student,0,0,349209,1_quartile,N,S
-516,0,1,"Walker, Mr. William Anderson",male,Adult,0,0,36967,4_quartile,D,S
-517,1,2,"Lemore, Mrs. (Amelia Milley)",female,Young Adult,0,0,C.A. 34260,2_quartile,F,S
-518,0,3,"Ryan, Mr. Patrick",male,Unknown,0,0,371110,3_quartile,N,Q
-519,1,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,Adult,1,0,226875,3_quartile,N,S
-520,0,3,"Pavlovic, Mr. Stefo",male,Young Adult,0,0,349242,1_quartile,N,S
-521,1,1,"Perreault, Miss. Anne",female,Young Adult,0,0,12749,4_quartile,B,S
-522,0,3,"Vovk, Mr. Janko",male,Student,0,0,349252,1_quartile,N,S
-523,0,3,"Lahoud, Mr. Sarkis",male,Unknown,0,0,2624,1_quartile,N,C
-524,1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,Adult,0,1,111361,4_quartile,B,C
-525,0,3,"Kassem, Mr. Fared",male,Unknown,0,0,2700,1_quartile,N,C
-526,0,3,"Farrell, Mr. James",male,Adult,0,0,367232,1_quartile,N,Q
-527,1,2,"Ridsdale, Miss. Lucy",female,Adult,0,0,W./C. 14258,2_quartile,N,S
-528,0,1,"Farthing, Mr. John",male,Unknown,0,0,PC 17483,4_quartile,C,S
-529,0,3,"Salonen, Mr. Johan Werner",male,Adult,0,0,3101296,1_quartile,N,S
-530,0,2,"Hocking, Mr. Richard George",male,Student,2,1,29104,2_quartile,N,S
-531,1,2,"Quick, Miss. Phyllis May",female,Baby,1,1,26360,3_quartile,N,S
-532,0,3,"Toufik, Mr. Nakli",male,Unknown,0,0,2641,1_quartile,N,C
-533,0,3,"Elias, Mr. Joseph Jr",male,Teenager,1,1,2690,1_quartile,N,C
-534,1,3,"Peter, Mrs. Catherine (Catherine Rizk)",female,Unknown,0,2,2668,3_quartile,N,C
-535,0,3,"Cacic, Miss. Marija",female,Young Adult,0,0,315084,2_quartile,N,S
-536,1,2,"Hart, Miss. Eva Miriam",female,Child,0,2,F.C.C. 13529,3_quartile,N,S
-537,0,1,"Butt, Major. Archibald Willingham",male,Adult,0,0,113050,3_quartile,B,S
-538,1,1,"LeRoy, Miss. Bertha",female,Young Adult,0,0,PC 17761,4_quartile,N,C
-539,0,3,"Risien, Mr. Samuel Beard",male,Unknown,0,0,364498,2_quartile,N,S
-540,1,1,"Frolicher, Miss. Hedwig Margaritha",female,Student,0,2,13568,4_quartile,B,C
-541,1,1,"Crosby, Miss. Harriet R",female,Adult,0,2,WE/P 5735,4_quartile,B,S
-542,0,3,"Andersson, Miss. Ingeborg Constanzia",female,Child,4,2,347082,4_quartile,N,S
-543,0,3,"Andersson, Miss. Sigrid Elisabeth",female,Child,4,2,347082,4_quartile,N,S
-544,1,2,"Beane, Mr. Edward",male,Young Adult,1,0,2908,3_quartile,N,S
-545,0,1,"Douglas, Mr. Walter Donald",male,Adult,1,0,PC 17761,4_quartile,C,C
-546,0,1,"Nicholson, Mr. Arthur Ernest",male,Senior,0,0,693,3_quartile,N,S
-547,1,2,"Beane, Mrs. Edward (Ethel Clarke)",female,Student,1,0,2908,3_quartile,N,S
-548,1,2,"Padro y Manent, Mr. Julian",male,Unknown,0,0,SC/PARIS 2146,2_quartile,N,C
-549,0,3,"Goldsmith, Mr. Frank John",male,Young Adult,1,1,363291,3_quartile,N,S
-550,1,2,"Davies, Master. John Morgan Jr",male,Child,1,1,C.A. 33112,4_quartile,N,S
-551,1,1,"Thayer, Mr. John Borland Jr",male,Teenager,0,2,17421,4_quartile,C,C
-552,0,2,"Sharp, Mr. Percival James R",male,Young Adult,0,0,244358,3_quartile,N,S
-553,0,3,"O'Brien, Mr. Timothy",male,Unknown,0,0,330979,1_quartile,N,Q
-554,1,3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,Student,0,0,2620,1_quartile,N,C
-555,1,3,"Ohman, Miss. Velin",female,Student,0,0,347085,1_quartile,N,S
-556,0,1,"Wright, Mr. George",male,Senior,0,0,113807,3_quartile,N,S
-557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,Adult,1,0,11755,4_quartile,A,C
-558,0,1,"Robbins, Mr. Victor",male,Unknown,0,0,PC 17757,4_quartile,N,C
-559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,Adult,1,1,110413,4_quartile,E,S
-560,1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,Adult,1,0,345572,3_quartile,N,S
-561,0,3,"Morrow, Mr. Thomas Rowan",male,Unknown,0,0,372622,1_quartile,N,Q
-562,0,3,"Sivic, Mr. Husein",male,Adult,0,0,349251,1_quartile,N,S
-563,0,2,"Norman, Mr. Robert Douglas",male,Young Adult,0,0,218629,2_quartile,N,S
-564,0,3,"Simmons, Mr. John",male,Unknown,0,0,SOTON/OQ 392082,2_quartile,N,S
-565,0,3,"Meanwell, Miss. (Marion Ogden)",female,Unknown,0,0,SOTON/O.Q. 392087,2_quartile,N,S
-566,0,3,"Davies, Mr. Alfred J",male,Student,2,0,A/4 48871,3_quartile,N,S
-567,0,3,"Stoytcheff, Mr. Ilia",male,Student,0,0,349205,1_quartile,N,S
-568,0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,Young Adult,0,4,349909,3_quartile,N,S
-569,0,3,"Doharr, Mr. Tannous",male,Unknown,0,0,2686,1_quartile,N,C
-570,1,3,"Jonsson, Mr. Carl",male,Young Adult,0,0,350417,1_quartile,N,S
-571,1,2,"Harris, Mr. George",male,Senior,0,0,S.W./PP 752,2_quartile,N,S
-572,1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,Adult,2,0,11769,4_quartile,C,S
-573,1,1,"Flynn, Mr. John Irwin (""Irving"")",male,Adult,0,0,PC 17474,3_quartile,E,S
-574,1,3,"Kelly, Miss. Mary",female,Unknown,0,0,14312,1_quartile,N,Q
-575,0,3,"Rush, Mr. Alfred George John",male,Teenager,0,0,A/4. 20589,2_quartile,N,S
-576,0,3,"Patchett, Mr. George",male,Student,0,0,358585,2_quartile,N,S
-577,1,2,"Garside, Miss. Ethel",female,Young Adult,0,0,243880,2_quartile,N,S
-578,1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,Adult,1,0,13507,4_quartile,E,S
-579,0,3,"Caram, Mrs. Joseph (Maria Elias)",female,Unknown,1,0,2689,2_quartile,N,C
-580,1,3,"Jussila, Mr. Eiriik",male,Young Adult,0,0,STON/O 2. 3101286,1_quartile,N,S
-581,1,2,"Christy, Miss. Julie Rachel",female,Student,1,1,237789,3_quartile,N,S
-582,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,Adult,1,1,17421,4_quartile,C,C
-583,0,2,"Downton, Mr. William James",male,Adult,0,0,28403,3_quartile,N,S
-584,0,1,"Ross, Mr. John Hugo",male,Adult,0,0,13049,4_quartile,A,C
-585,0,3,"Paulner, Mr. Uscher",male,Unknown,0,0,3411,2_quartile,N,C
-586,1,1,"Taussig, Miss. Ruth",female,Teenager,0,2,110413,4_quartile,E,S
-587,0,2,"Jarvis, Mr. John Denzil",male,Adult,0,0,237565,2_quartile,N,S
-588,1,1,"Frolicher-Stehli, Mr. Maxmillian",male,Adult,1,1,13567,4_quartile,B,C
-589,0,3,"Gilinski, Mr. Eliezer",male,Student,0,0,14973,2_quartile,N,S
-590,0,3,"Murdlin, Mr. Joseph",male,Unknown,0,0,A./5. 3235,2_quartile,N,S
-591,0,3,"Rintamaki, Mr. Matti",male,Young Adult,0,0,STON/O 2. 3101273,1_quartile,N,S
-592,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,Adult,1,0,36947,4_quartile,D,C
-593,0,3,"Elsbury, Mr. William James",male,Adult,0,0,A/5 3902,1_quartile,N,S
-594,0,3,"Bourke, Miss. Mary",female,Unknown,0,2,364848,1_quartile,N,Q
-595,0,2,"Chapman, Mr. John Henry",male,Adult,1,0,SC/AH 29037,3_quartile,N,S
-596,0,3,"Van Impe, Mr. Jean Baptiste",male,Adult,1,1,345773,3_quartile,N,S
-597,1,2,"Leitch, Miss. Jessie Wills",female,Unknown,0,0,248727,4_quartile,N,S
-598,0,3,"Johnson, Mr. Alfred",male,Adult,0,0,LINE,Unknown,N,S
-599,0,3,"Boulos, Mr. Hanna",male,Unknown,0,0,2664,1_quartile,N,C
-600,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,Adult,1,0,PC 17485,4_quartile,A,C
-601,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,Student,2,1,243847,3_quartile,N,S
-602,0,3,"Slabenoff, Mr. Petco",male,Unknown,0,0,349214,1_quartile,N,S
-603,0,1,"Harrington, Mr. Charles H",male,Unknown,0,0,113796,4_quartile,N,S
-604,0,3,"Torber, Mr. Ernst William",male,Adult,0,0,364511,2_quartile,N,S
-605,1,1,"Homer, Mr. Harry (""Mr E Haven"")",male,Young Adult,0,0,111426,3_quartile,N,C
-606,0,3,"Lindell, Mr. Edvard Bengtsson",male,Adult,1,0,349910,3_quartile,N,S
-607,0,3,"Karaic, Mr. Milan",male,Young Adult,0,0,349246,1_quartile,N,S
-608,1,1,"Daniel, Mr. Robert Williams",male,Young Adult,0,0,113804,3_quartile,N,S
-609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,Student,1,2,SC/Paris 2123,4_quartile,N,C
-610,1,1,"Shutes, Miss. Elizabeth W",female,Adult,0,0,PC 17582,4_quartile,C,S
-611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,Adult,1,5,347082,4_quartile,N,S
-612,0,3,"Jardin, Mr. Jose Neto",male,Unknown,0,0,SOTON/O.Q. 3101305,1_quartile,N,S
-613,1,3,"Murphy, Miss. Margaret Jane",female,Unknown,1,0,367230,3_quartile,N,Q
-614,0,3,"Horgan, Mr. John",male,Unknown,0,0,370377,1_quartile,N,Q
-615,0,3,"Brocklebank, Mr. William Alfred",male,Young Adult,0,0,364512,2_quartile,N,S
-616,1,2,"Herman, Miss. Alice",female,Student,1,2,220845,4_quartile,N,S
-617,0,3,"Danbom, Mr. Ernst Gilbert",male,Young Adult,1,1,347080,2_quartile,N,S
-618,0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,Young Adult,1,0,A/5. 3336,3_quartile,N,S
-619,1,2,"Becker, Miss. Marion Louise",female,Baby,2,1,230136,4_quartile,F,S
-620,0,2,"Gavey, Mr. Lawrence",male,Young Adult,0,0,31028,2_quartile,N,S
-621,0,3,"Yasbeck, Mr. Antoni",male,Young Adult,1,0,2659,2_quartile,N,C
-622,1,1,"Kimball, Mr. Edwin Nelson Jr",male,Adult,1,0,11753,4_quartile,D,S
-623,1,3,"Nakid, Mr. Sahid",male,Student,1,1,2653,3_quartile,N,C
-624,0,3,"Hansen, Mr. Henry Damsgaard",male,Student,0,0,350029,1_quartile,N,S
-625,0,3,"Bowen, Mr. David John ""Dai""",male,Student,0,0,54636,3_quartile,N,S
-626,0,1,"Sutton, Mr. Frederick",male,Senior,0,0,36963,4_quartile,D,S
-627,0,2,"Kirkland, Rev. Charles Leonard",male,Adult,0,0,219533,2_quartile,N,Q
-628,1,1,"Longley, Miss. Gretchen Fiske",female,Student,0,0,13502,4_quartile,D,S
-629,0,3,"Bostandyeff, Mr. Guentcho",male,Young Adult,0,0,349224,1_quartile,N,S
-630,0,3,"O'Connell, Mr. Patrick D",male,Unknown,0,0,334912,1_quartile,N,Q
-631,1,1,"Barkworth, Mr. Algernon Henry Wilson",male,Senior,0,0,27042,3_quartile,A,S
-632,0,3,"Lundahl, Mr. Johan Svensson",male,Adult,0,0,347743,1_quartile,N,S
-633,1,1,"Stahelin-Maeglin, Dr. Max",male,Young Adult,0,0,13214,3_quartile,B,C
-634,0,1,"Parr, Mr. William Henry Marsh",male,Unknown,0,0,112052,Unknown,N,S
-635,0,3,"Skoog, Miss. Mabel",female,Child,3,2,347088,3_quartile,N,S
-636,1,2,"Davis, Miss. Mary",female,Young Adult,0,0,237668,2_quartile,N,S
-637,0,3,"Leinonen, Mr. Antti Gustaf",male,Young Adult,0,0,STON/O 2. 3101292,1_quartile,N,S
-638,0,2,"Collyer, Mr. Harvey",male,Young Adult,1,1,C.A. 31921,3_quartile,N,S
-639,0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,Adult,0,5,3101295,4_quartile,N,S
-640,0,3,"Thorneycroft, Mr. Percival",male,Unknown,1,0,376564,3_quartile,N,S
-641,0,3,"Jensen, Mr. Hans Peder",male,Student,0,0,350050,1_quartile,N,S
-642,1,1,"Sagesser, Mlle. Emma",female,Student,0,0,PC 17477,4_quartile,B,C
-643,0,3,"Skoog, Miss. Margit Elizabeth",female,Baby,3,2,347088,3_quartile,N,S
-644,1,3,"Foo, Mr. Choong",male,Unknown,0,0,1601,4_quartile,N,S
-645,1,3,"Baclini, Miss. Eugenie",female,Baby,2,1,2666,3_quartile,N,C
-646,1,1,"Harper, Mr. Henry Sleeper",male,Adult,1,0,PC 17572,4_quartile,D,C
-647,0,3,"Cor, Mr. Liudevit",male,Student,0,0,349231,1_quartile,N,S
-648,1,1,"Simonius-Blumer, Col. Oberst Alfons",male,Adult,0,0,13213,4_quartile,A,C
-649,0,3,"Willey, Mr. Edward",male,Unknown,0,0,S.O./P.P. 751,1_quartile,N,S
-650,1,3,"Stanley, Miss. Amy Zillah Elsie",female,Student,0,0,CA. 2314,1_quartile,N,S
-651,0,3,"Mitkoff, Mr. Mito",male,Unknown,0,0,349221,1_quartile,N,S
-652,1,2,"Doling, Miss. Elsie",female,Teenager,0,1,231919,3_quartile,N,S
-653,0,3,"Kalvik, Mr. Johannes Halvorsen",male,Student,0,0,8475,2_quartile,N,S
-654,1,3,"O'Leary, Miss. Hanora ""Norah""",female,Unknown,0,0,330919,1_quartile,N,Q
-655,0,3,"Hegarty, Miss. Hanora ""Nora""",female,Teenager,0,0,365226,1_quartile,N,Q
-656,0,2,"Hickman, Mr. Leonard Mark",male,Student,2,0,S.O.C. 14879,4_quartile,N,S
-657,0,3,"Radeff, Mr. Alexander",male,Unknown,0,0,349223,1_quartile,N,S
-658,0,3,"Bourke, Mrs. John (Catherine)",female,Young Adult,1,1,364849,3_quartile,N,Q
-659,0,2,"Eitemiller, Mr. George Floyd",male,Student,0,0,29751,2_quartile,N,S
-660,0,1,"Newell, Mr. Arthur Webster",male,Adult,0,2,35273,4_quartile,D,C
-661,1,1,"Frauenthal, Dr. Henry William",male,Adult,2,0,PC 17611,4_quartile,N,S
-662,0,3,"Badt, Mr. Mohamed",male,Adult,0,0,2623,1_quartile,N,C
-663,0,1,"Colley, Mr. Edward Pomeroy",male,Adult,0,0,5727,3_quartile,E,S
-664,0,3,"Coleff, Mr. Peju",male,Adult,0,0,349210,1_quartile,N,S
-665,1,3,"Lindqvist, Mr. Eino William",male,Student,1,0,STON/O 2. 3101285,1_quartile,N,S
-666,0,2,"Hickman, Mr. Lewis",male,Young Adult,2,0,S.O.C. 14879,4_quartile,N,S
-667,0,2,"Butler, Mr. Reginald Fenton",male,Student,0,0,234686,2_quartile,N,S
-668,0,3,"Rommetvedt, Mr. Knud Paust",male,Unknown,0,0,312993,1_quartile,N,S
-669,0,3,"Cook, Mr. Jacob",male,Adult,0,0,A/5 3536,2_quartile,N,S
-670,1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,Unknown,1,0,19996,4_quartile,C,S
-671,1,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,Adult,1,1,29750,4_quartile,N,S
-672,0,1,"Davidson, Mr. Thornton",male,Young Adult,1,0,F.C. 12750,4_quartile,B,S
-673,0,2,"Mitchell, Mr. Henry Michael",male,Senior,0,0,C.A. 24580,2_quartile,N,S
-674,1,2,"Wilhelms, Mr. Charles",male,Young Adult,0,0,244270,2_quartile,N,S
-675,0,2,"Watson, Mr. Ennis Hastings",male,Unknown,0,0,239856,Unknown,N,S
-676,0,3,"Edvardsson, Mr. Gustaf Hjalmar",male,Teenager,0,0,349912,1_quartile,N,S
-677,0,3,"Sawyer, Mr. Frederick Charles",male,Student,0,0,342826,2_quartile,N,S
-678,1,3,"Turja, Miss. Anna Sofia",female,Teenager,0,0,4138,2_quartile,N,S
-679,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,Adult,1,6,CA 2144,4_quartile,N,S
-680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,Adult,0,1,PC 17755,4_quartile,B,C
-681,0,3,"Peters, Miss. Katie",female,Unknown,0,0,330935,2_quartile,N,Q
-682,1,1,"Hassab, Mr. Hammad",male,Young Adult,0,0,PC 17572,4_quartile,D,C
-683,0,3,"Olsvigen, Mr. Thor Anderson",male,Student,0,0,6563,2_quartile,N,S
-684,0,3,"Goodwin, Mr. Charles Edward",male,Teenager,5,2,CA 2144,4_quartile,N,S
-685,0,2,"Brown, Mr. Thomas William Solomon",male,Adult,1,1,29750,4_quartile,N,S
-686,0,2,"Laroche, Mr. Joseph Philippe Lemercier",male,Student,1,2,SC/Paris 2123,4_quartile,N,C
-687,0,3,"Panula, Mr. Jaako Arnold",male,Teenager,4,1,3101295,4_quartile,N,S
-688,0,3,"Dakic, Mr. Branko",male,Student,0,0,349228,2_quartile,N,S
-689,0,3,"Fischer, Mr. Eberhard Thelander",male,Teenager,0,0,350036,1_quartile,N,S
-690,1,1,"Madill, Miss. Georgette Alexandra",female,Teenager,0,1,24160,4_quartile,B,S
-691,1,1,"Dick, Mr. Albert Adrian",male,Young Adult,1,0,17474,4_quartile,B,S
-692,1,3,"Karun, Miss. Manca",female,Baby,0,1,349256,2_quartile,N,C
-693,1,3,"Lam, Mr. Ali",male,Unknown,0,0,1601,4_quartile,N,S
-694,0,3,"Saad, Mr. Khalil",male,Student,0,0,2672,1_quartile,N,C
-695,0,1,"Weir, Col. John",male,Adult,0,0,113800,3_quartile,N,S
-696,0,2,"Chapman, Mr. Charles Henry",male,Adult,0,0,248731,2_quartile,N,S
-697,0,3,"Kelly, Mr. James",male,Adult,0,0,363592,2_quartile,N,S
-698,1,3,"Mullens, Miss. Katherine ""Katie""",female,Unknown,0,0,35852,1_quartile,N,Q
-699,0,1,"Thayer, Mr. John Borland",male,Adult,1,1,17421,4_quartile,C,C
-700,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,Adult,0,0,348121,1_quartile,F,S
-701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,Teenager,1,0,PC 17757,4_quartile,C,C
-702,1,1,"Silverthorne, Mr. Spencer Victor",male,Young Adult,0,0,PC 17475,3_quartile,E,S
-703,0,3,"Barbara, Miss. Saiide",female,Teenager,0,1,2691,2_quartile,N,C
-704,0,3,"Gallagher, Mr. Martin",male,Student,0,0,36864,1_quartile,N,Q
-705,0,3,"Hansen, Mr. Henrik Juul",male,Young Adult,1,0,350025,1_quartile,N,S
-706,0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,Adult,0,0,250655,3_quartile,N,S
-707,1,2,"Kelly, Mrs. Florence ""Fannie""",female,Adult,0,0,223596,2_quartile,N,S
-708,1,1,"Calderhead, Mr. Edward Pennington",male,Adult,0,0,PC 17476,3_quartile,E,S
-709,1,1,"Cleaver, Miss. Alice",female,Student,0,0,113781,4_quartile,N,S
-710,1,3,"Moubarek, Master. Halim Gonios (""William George"")",male,Unknown,1,1,2661,3_quartile,N,C
-711,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,Student,0,0,PC 17482,4_quartile,C,C
-712,0,1,"Klaber, Mr. Herman",male,Unknown,0,0,113028,3_quartile,C,S
-713,1,1,"Taylor, Mr. Elmer Zebley",male,Adult,1,0,19996,4_quartile,C,S
-714,0,3,"Larsson, Mr. August Viktor",male,Young Adult,0,0,7545,2_quartile,N,S
-715,0,2,"Greenberg, Mr. Samuel",male,Adult,0,0,250647,2_quartile,N,S
-716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,Student,0,0,348124,1_quartile,F,S
-717,1,1,"Endres, Miss. Caroline Louise",female,Adult,0,0,PC 17757,4_quartile,C,C
-718,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,Young Adult,0,0,34218,2_quartile,E,S
-719,0,3,"McEvoy, Mr. Michael",male,Unknown,0,0,36568,3_quartile,N,Q
-720,0,3,"Johnson, Mr. Malkolm Joackim",male,Young Adult,0,0,347062,1_quartile,N,S
-721,1,2,"Harper, Miss. Annie Jessie ""Nina""",female,Child,0,1,248727,4_quartile,N,S
-722,0,3,"Jensen, Mr. Svend Lauritz",male,Teenager,1,0,350048,1_quartile,N,S
-723,0,2,"Gillespie, Mr. William Henry",male,Young Adult,0,0,12233,2_quartile,N,S
-724,0,2,"Hodges, Mr. Henry Price",male,Adult,0,0,250643,2_quartile,N,S
-725,1,1,"Chambers, Mr. Norman Campbell",male,Young Adult,1,0,113806,4_quartile,E,S
-726,0,3,"Oreskovic, Mr. Luka",male,Student,0,0,315094,2_quartile,N,S
-727,1,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,Young Adult,3,0,31027,3_quartile,N,S
-728,1,3,"Mannion, Miss. Margareth",female,Unknown,0,0,36866,1_quartile,N,Q
-729,0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,Student,1,0,236853,3_quartile,N,S
-730,0,3,"Ilmakangas, Miss. Pieta Sofia",female,Student,1,0,STON/O2. 3101271,1_quartile,N,S
-731,1,1,"Allen, Miss. Elisabeth Walton",female,Young Adult,0,0,24160,4_quartile,B,S
-732,0,3,"Hassan, Mr. Houssein G N",male,Child,0,0,2699,3_quartile,N,C
-733,0,2,"Knight, Mr. Robert J",male,Unknown,0,0,239855,Unknown,N,S
-734,0,2,"Berriman, Mr. William John",male,Student,0,0,28425,2_quartile,N,S
-735,0,2,"Troupiansky, Mr. Moses Aaron",male,Student,0,0,233639,2_quartile,N,S
-736,0,3,"Williams, Mr. Leslie",male,Young Adult,0,0,54636,3_quartile,N,S
-737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,Adult,1,3,W./C. 6608,4_quartile,N,S
-738,1,1,"Lesurer, Mr. Gustave J",male,Young Adult,0,0,PC 17755,4_quartile,B,C
-739,0,3,"Ivanoff, Mr. Kanio",male,Unknown,0,0,349201,1_quartile,N,S
-740,0,3,"Nankoff, Mr. Minko",male,Unknown,0,0,349218,1_quartile,N,S
-741,1,1,"Hawksford, Mr. Walter James",male,Unknown,0,0,16988,3_quartile,D,S
-742,0,1,"Cavendish, Mr. Tyrell William",male,Adult,1,0,19877,4_quartile,C,S
-743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,Student,2,2,PC 17608,4_quartile,B,C
-744,0,3,"McNamee, Mr. Neal",male,Student,1,0,376566,3_quartile,N,S
-745,1,3,"Stranden, Mr. Juho",male,Young Adult,0,0,STON/O 2. 3101288,1_quartile,N,S
-746,0,1,"Crosby, Capt. Edward Gifford",male,Senior,1,1,WE/P 5735,4_quartile,B,S
-747,0,3,"Abbott, Mr. Rossmore Edward",male,Teenager,1,1,C.A. 2673,3_quartile,N,S
-748,1,2,"Sinkkonen, Miss. Anna",female,Young Adult,0,0,250648,2_quartile,N,S
-749,0,1,"Marvin, Mr. Daniel Warner",male,Student,1,0,113773,4_quartile,D,S
-750,0,3,"Connaghton, Mr. Michael",male,Young Adult,0,0,335097,1_quartile,N,Q
-751,1,2,"Wells, Miss. Joan",female,Baby,1,1,29103,3_quartile,N,S
-752,1,3,"Moor, Master. Meier",male,Child,0,1,392096,2_quartile,E,S
-753,0,3,"Vande Velde, Mr. Johannes Joseph",male,Young Adult,0,0,345780,2_quartile,N,S
-754,0,3,"Jonkoff, Mr. Lalio",male,Student,0,0,349204,1_quartile,N,S
-755,1,2,"Herman, Mrs. Samuel (Jane Laver)",female,Adult,1,2,220845,4_quartile,N,S
-756,1,2,"Hamalainen, Master. Viljo",male,Baby,1,1,250649,2_quartile,N,S
-757,0,3,"Carlsson, Mr. August Sigfrid",male,Young Adult,0,0,350042,1_quartile,N,S
-758,0,2,"Bailey, Mr. Percy Andrew",male,Teenager,0,0,29108,2_quartile,N,S
-759,0,3,"Theobald, Mr. Thomas Leonard",male,Young Adult,0,0,363294,2_quartile,N,S
-760,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,Young Adult,0,0,110152,4_quartile,B,S
-761,0,3,"Garfirth, Mr. John",male,Unknown,0,0,358585,2_quartile,N,S
-762,0,3,"Nirva, Mr. Iisakki Antino Aijo",male,Adult,0,0,SOTON/O2 3101272,1_quartile,N,S
-763,1,3,"Barah, Mr. Hanna Assi",male,Student,0,0,2663,1_quartile,N,C
-764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,Adult,1,2,113760,4_quartile,B,S
-765,0,3,"Eklund, Mr. Hans Linus",male,Teenager,0,0,347074,1_quartile,N,S
-766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,Adult,1,0,13502,4_quartile,D,S
-767,0,1,"Brewe, Dr. Arthur Jackson",male,Unknown,0,0,112379,4_quartile,N,C
-768,0,3,"Mangan, Miss. Mary",female,Young Adult,0,0,364850,1_quartile,N,Q
-769,0,3,"Moran, Mr. Daniel J",male,Unknown,1,0,371110,3_quartile,N,Q
-770,0,3,"Gronnestad, Mr. Daniel Danielsen",male,Young Adult,0,0,8471,2_quartile,N,S
-771,0,3,"Lievens, Mr. Rene Aime",male,Student,0,0,345781,2_quartile,N,S
-772,0,3,"Jensen, Mr. Niels Peder",male,Adult,0,0,350047,1_quartile,N,S
-773,0,2,"Mack, Mrs. (Mary)",female,Adult,0,0,S.O./P.P. 3,2_quartile,E,S
-774,0,3,"Elias, Mr. Dibo",male,Unknown,0,0,2674,1_quartile,N,C
-775,1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,Adult,1,3,29105,3_quartile,N,S
-776,0,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,Teenager,0,0,347078,1_quartile,N,S
-777,0,3,"Tobin, Mr. Roger",male,Unknown,0,0,383121,1_quartile,F,Q
-778,1,3,"Emanuel, Miss. Virginia Ethel",female,Baby,0,0,364516,2_quartile,N,S
-779,0,3,"Kilgannon, Mr. Thomas J",male,Unknown,0,0,36865,1_quartile,N,Q
-780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,Adult,0,1,24160,4_quartile,B,S
-781,1,3,"Ayoub, Miss. Banoura",female,Teenager,0,0,2687,1_quartile,N,C
-782,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,Teenager,1,0,17474,4_quartile,B,S
-783,0,1,"Long, Mr. Milton Clyde",male,Young Adult,0,0,113501,3_quartile,D,S
-784,0,3,"Johnston, Mr. Andrew G",male,Unknown,1,2,W./C. 6607,3_quartile,N,S
-785,0,3,"Ali, Mr. William",male,Student,0,0,SOTON/O.Q. 3101312,1_quartile,N,S
-786,0,3,"Harmer, Mr. Abraham (David Lishin)",male,Student,0,0,374887,1_quartile,N,S
-787,1,3,"Sjoblom, Miss. Anna Sofia",female,Teenager,0,0,3101265,1_quartile,N,S
-788,0,3,"Rice, Master. George Hugh",male,Child,4,1,382652,3_quartile,N,Q
-789,1,3,"Dean, Master. Bertram Vere",male,Baby,1,2,C.A. 2315,3_quartile,N,S
-790,0,1,"Guggenheim, Mr. Benjamin",male,Adult,0,0,PC 17593,4_quartile,B,C
-791,0,3,"Keane, Mr. Andrew ""Andy""",male,Unknown,0,0,12460,1_quartile,N,Q
-792,0,2,"Gaskell, Mr. Alfred",male,Teenager,0,0,239865,3_quartile,N,S
-793,0,3,"Sage, Miss. Stella Anna",female,Unknown,8,2,CA. 2343,4_quartile,N,S
-794,0,1,"Hoyt, Mr. William Fisher",male,Unknown,0,0,PC 17600,3_quartile,N,C
-795,0,3,"Dantcheff, Mr. Ristiu",male,Student,0,0,349203,1_quartile,N,S
-796,0,2,"Otter, Mr. Richard",male,Adult,0,0,28213,2_quartile,N,S
-797,1,1,"Leader, Dr. Alice (Farnham)",female,Adult,0,0,17465,3_quartile,D,S
-798,1,3,"Osman, Mrs. Mara",female,Young Adult,0,0,349244,2_quartile,N,S
-799,0,3,"Ibrahim Shawah, Mr. Yousseff",male,Young Adult,0,0,2685,1_quartile,N,C
-800,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,Young Adult,1,1,345773,3_quartile,N,S
-801,0,2,"Ponesell, Mr. Martin",male,Young Adult,0,0,250647,2_quartile,N,S
-802,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,Young Adult,1,1,C.A. 31921,3_quartile,N,S
-803,1,1,"Carter, Master. William Thornton II",male,Child,1,2,113760,4_quartile,B,S
-804,1,3,"Thomas, Master. Assad Alexander",male,Baby,0,1,2625,2_quartile,N,C
-805,1,3,"Hedman, Mr. Oskar Arvid",male,Young Adult,0,0,347089,1_quartile,N,S
-806,0,3,"Johansson, Mr. Karl Johan",male,Young Adult,0,0,347063,1_quartile,N,S
-807,0,1,"Andrews, Mr. Thomas Jr",male,Adult,0,0,112050,Unknown,A,S
-808,0,3,"Pettersson, Miss. Ellen Natalia",female,Teenager,0,0,347087,1_quartile,N,S
-809,0,2,"Meyer, Mr. August",male,Adult,0,0,248723,2_quartile,N,S
-810,1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,Young Adult,1,0,113806,4_quartile,E,S
-811,0,3,"Alexander, Mr. William",male,Young Adult,0,0,3474,1_quartile,N,S
-812,0,3,"Lester, Mr. James",male,Adult,0,0,A/4 48871,3_quartile,N,S
-813,0,2,"Slemen, Mr. Richard James",male,Young Adult,0,0,28206,2_quartile,N,S
-814,0,3,"Andersson, Miss. Ebba Iris Alfrida",female,Child,4,2,347082,4_quartile,N,S
-815,0,3,"Tomlin, Mr. Ernest Portage",male,Young Adult,0,0,364499,2_quartile,N,S
-816,0,1,"Fry, Mr. Richard",male,Unknown,0,0,112058,Unknown,B,S
-817,0,3,"Heininen, Miss. Wendla Maria",female,Student,0,0,STON/O2. 3101290,1_quartile,N,S
-818,0,2,"Mallet, Mr. Albert",male,Young Adult,1,1,S.C./PARIS 2079,4_quartile,N,C
-819,0,3,"Holm, Mr. John Fredrik Alexander",male,Adult,0,0,C 7075,1_quartile,N,S
-820,0,3,"Skoog, Master. Karl Thorsten",male,Child,3,2,347088,3_quartile,N,S
-821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,Adult,1,1,12749,4_quartile,B,S
-822,1,3,"Lulic, Mr. Nikola",male,Young Adult,0,0,315098,2_quartile,N,S
-823,0,1,"Reuchlin, Jonkheer. John George",male,Adult,0,0,19972,Unknown,N,S
-824,1,3,"Moor, Mrs. (Beila)",female,Young Adult,0,1,392096,2_quartile,E,S
-825,0,3,"Panula, Master. Urho Abraham",male,Baby,4,1,3101295,4_quartile,N,S
-826,0,3,"Flynn, Mr. John",male,Unknown,0,0,368323,1_quartile,N,Q
-827,0,3,"Lam, Mr. Len",male,Unknown,0,0,1601,4_quartile,N,S
-828,1,2,"Mallet, Master. Andre",male,Baby,0,2,S.C./PARIS 2079,4_quartile,N,C
-829,1,3,"McCormack, Mr. Thomas Joseph",male,Unknown,0,0,367228,1_quartile,N,Q
-830,1,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,Senior,0,0,113572,4_quartile,B,
-831,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,Teenager,1,0,2659,2_quartile,N,C
-832,1,2,"Richards, Master. George Sibley",male,Baby,1,1,29106,3_quartile,N,S
-833,0,3,"Saad, Mr. Amin",male,Unknown,0,0,2671,1_quartile,N,C
-834,0,3,"Augustsson, Mr. Albert",male,Student,0,0,347468,1_quartile,N,S
-835,0,3,"Allum, Mr. Owen George",male,Teenager,0,0,2223,2_quartile,N,S
-836,1,1,"Compton, Miss. Sara Rebecca",female,Adult,1,1,PC 17756,4_quartile,E,C
-837,0,3,"Pasic, Mr. Jakob",male,Student,0,0,315097,2_quartile,N,S
-838,0,3,"Sirota, Mr. Maurice",male,Unknown,0,0,392092,2_quartile,N,S
-839,1,3,"Chip, Mr. Chang",male,Young Adult,0,0,1601,4_quartile,N,S
-840,1,1,"Marechal, Mr. Pierre",male,Unknown,0,0,11774,3_quartile,C,C
-841,0,3,"Alhomaki, Mr. Ilmari Rudolf",male,Student,0,0,SOTON/O2 3101287,1_quartile,N,S
-842,0,2,"Mudd, Mr. Thomas Charles",male,Teenager,0,0,S.O./P.P. 3,2_quartile,N,S
-843,1,1,"Serepeca, Miss. Augusta",female,Young Adult,0,0,113798,3_quartile,N,C
-844,0,3,"Lemberopolous, Mr. Peter L",male,Young Adult,0,0,2683,1_quartile,N,C
-845,0,3,"Culumovic, Mr. Jeso",male,Teenager,0,0,315090,2_quartile,N,S
-846,0,3,"Abbing, Mr. Anthony",male,Adult,0,0,C.A. 5547,1_quartile,N,S
-847,0,3,"Sage, Mr. Douglas Bullen",male,Unknown,8,2,CA. 2343,4_quartile,N,S
-848,0,3,"Markoff, Mr. Marin",male,Young Adult,0,0,349213,1_quartile,N,C
-849,0,2,"Harper, Rev. John",male,Young Adult,0,1,248727,4_quartile,N,S
-850,1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,Unknown,1,0,17453,4_quartile,C,C
-851,0,3,"Andersson, Master. Sigvard Harald Elias",male,Baby,4,2,347082,4_quartile,N,S
-852,0,3,"Svensson, Mr. Johan",male,Senior,0,0,347060,1_quartile,N,S
-853,0,3,"Boulos, Miss. Nourelain",female,Child,1,1,2678,3_quartile,N,C
-854,1,1,"Lines, Miss. Mary Conover",female,Teenager,0,1,PC 17592,4_quartile,D,S
-855,0,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,Adult,1,0,244252,3_quartile,N,S
-856,1,3,"Aks, Mrs. Sam (Leah Rosen)",female,Teenager,0,1,392091,2_quartile,N,S
-857,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,Adult,1,1,36928,4_quartile,N,S
-858,1,1,"Daly, Mr. Peter Denis ",male,Adult,0,0,113055,3_quartile,E,S
-859,1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,Student,0,3,2666,3_quartile,N,C
-860,0,3,"Razi, Mr. Raihed",male,Unknown,0,0,2629,1_quartile,N,C
-861,0,3,"Hansen, Mr. Claus Peter",male,Adult,2,0,350026,2_quartile,N,S
-862,0,2,"Giles, Mr. Frederick Edward",male,Student,1,0,28134,2_quartile,N,S
-863,1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,Adult,0,0,17466,3_quartile,D,S
-864,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,Unknown,8,2,CA. 2343,4_quartile,N,S
-865,0,2,"Gill, Mr. John William",male,Student,0,0,233866,2_quartile,N,S
-866,1,2,"Bystrom, Mrs. (Karolina)",female,Adult,0,0,236852,2_quartile,N,S
-867,1,2,"Duran y More, Miss. Asuncion",female,Young Adult,1,0,SC/PARIS 2149,2_quartile,N,C
-868,0,1,"Roebling, Mr. Washington Augustus II",male,Young Adult,0,0,PC 17590,4_quartile,A,S
-869,0,3,"van Melkebeke, Mr. Philemon",male,Unknown,0,0,345777,2_quartile,N,S
-870,1,3,"Johnson, Master. Harold Theodor",male,Baby,1,1,347742,2_quartile,N,S
-871,0,3,"Balkic, Mr. Cerin",male,Young Adult,0,0,349248,1_quartile,N,S
-872,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,Adult,1,1,11751,4_quartile,D,S
-873,0,1,"Carlsson, Mr. Frans Olof",male,Young Adult,0,0,695,1_quartile,B,S
-874,0,3,"Vander Cruyssen, Mr. Victor",male,Adult,0,0,345765,2_quartile,N,S
-875,1,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,Young Adult,1,0,P/PP 3381,3_quartile,N,C
-876,1,3,"Najib, Miss. Adele Kiamie ""Jane""",female,Teenager,0,0,2667,1_quartile,N,C
-877,0,3,"Gustafsson, Mr. Alfred Ossian",male,Student,0,0,7534,2_quartile,N,S
-878,0,3,"Petroff, Mr. Nedelio",male,Student,0,0,349212,1_quartile,N,S
-879,0,3,"Laleff, Mr. Kristo",male,Unknown,0,0,349217,1_quartile,N,S
-880,1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,Adult,0,1,11767,4_quartile,C,C
-881,1,2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,Student,0,1,230433,3_quartile,N,S
-882,0,3,"Markun, Mr. Johann",male,Young Adult,0,0,349257,1_quartile,N,S
-883,0,3,"Dahlberg, Miss. Gerda Ulrika",female,Student,0,0,7552,2_quartile,N,S
-884,0,2,"Banfield, Mr. Frederick James",male,Young Adult,0,0,C.A./SOTON 34068,2_quartile,N,S
-885,0,3,"Sutehall, Mr. Henry Jr",male,Student,0,0,SOTON/OQ 392076,1_quartile,N,S
-886,0,3,"Rice, Mrs. William (Margaret Norton)",female,Adult,0,5,382652,3_quartile,N,Q
-887,0,2,"Montvila, Rev. Juozas",male,Young Adult,0,0,211536,2_quartile,N,S
-888,1,1,"Graham, Miss. Margaret Edith",female,Student,0,0,112053,3_quartile,B,S
-889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,Unknown,1,2,W./C. 6607,3_quartile,N,S
-890,1,1,"Behr, Mr. Karl Howell",male,Young Adult,0,0,111369,3_quartile,C,C
-891,0,3,"Dooley, Mr. Patrick",male,Young Adult,0,0,370376,1_quartile,N,Q
+PassengerId,Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Cabin,Lname,NamePrefix
+1,0,3,male,Student,1,0,1_quartile,N,"Braund,",Mr.
+2,1,1,female,Adult,1,0,4_quartile,C,"Cumings,",Mrs.
+3,1,3,female,Young Adult,0,0,1_quartile,N,"Heikkinen,",Miss.
+4,1,1,female,Young Adult,1,0,4_quartile,C,"Futrelle,",Mrs.
+5,0,3,male,Young Adult,0,0,2_quartile,N,"Allen,",Mr.
+6,0,3,male,Unknown,0,0,2_quartile,N,"Moran,",Mr.
+7,0,1,male,Adult,0,0,4_quartile,E,"McCarthy,",Mr.
+8,0,3,male,Baby,3,1,3_quartile,N,"Palsson,",Master.
+9,1,3,female,Young Adult,0,2,2_quartile,N,"Johnson,",Mrs.
+10,1,2,female,Teenager,1,0,3_quartile,N,"Nasser,",Mrs.
+11,1,3,female,Baby,1,1,3_quartile,G,"Sandstrom,",Miss.
+12,1,1,female,Adult,0,0,3_quartile,C,"Bonnell,",Miss.
+13,0,3,male,Student,0,0,2_quartile,N,"Saundercock,",Mr.
+14,0,3,male,Adult,1,5,4_quartile,N,"Andersson,",Mr.
+15,0,3,female,Teenager,0,0,1_quartile,N,"Vestrom,",Miss.
+16,1,2,female,Adult,0,0,3_quartile,N,"Hewlett,",Mrs.
+17,0,3,male,Baby,4,1,3_quartile,N,"Rice,",Master.
+18,1,2,male,Unknown,0,0,2_quartile,N,"Williams,",Mr.
+19,0,3,female,Young Adult,1,0,3_quartile,N,Vander,"Planke,"
+20,1,3,female,Unknown,0,0,1_quartile,N,"Masselmani,",Mrs.
+21,0,2,male,Young Adult,0,0,3_quartile,N,"Fynney,",Mr.
+22,1,2,male,Young Adult,0,0,2_quartile,D,"Beesley,",Mr.
+23,1,3,female,Teenager,0,0,2_quartile,N,"McGowan,",Miss.
+24,1,1,male,Young Adult,0,0,4_quartile,A,"Sloper,",Mr.
+25,0,3,female,Child,3,1,3_quartile,N,"Palsson,",Miss.
+26,1,3,female,Adult,1,5,4_quartile,N,"Asplund,",Mrs.
+27,0,3,male,Unknown,0,0,1_quartile,N,"Emir,",Mr.
+28,0,1,male,Student,3,2,4_quartile,C,"Fortune,",Mr.
+29,1,3,female,Unknown,0,0,1_quartile,N,"O'Dwyer,",Miss.
+30,0,3,male,Unknown,0,0,1_quartile,N,"Todoroff,",Mr.
+31,0,1,male,Adult,0,0,3_quartile,N,"Uruchurtu,",Don.
+32,1,1,female,Unknown,1,0,4_quartile,B,"Spencer,",Mrs.
+33,1,3,female,Unknown,0,0,1_quartile,N,"Glynn,",Miss.
+34,0,2,male,Senior,0,0,2_quartile,N,"Wheadon,",Mr.
+35,0,1,male,Young Adult,1,0,4_quartile,N,"Meyer,",Mr.
+36,0,1,male,Adult,1,0,4_quartile,N,"Holverson,",Mr.
+37,1,3,male,Unknown,0,0,1_quartile,N,"Mamee,",Mr.
+38,0,3,male,Student,0,0,2_quartile,N,"Cann,",Mr.
+39,0,3,female,Teenager,2,0,3_quartile,N,Vander,"Planke,"
+40,1,3,female,Teenager,1,0,2_quartile,N,"Nicola-Yarred,",Miss.
+41,0,3,female,Adult,1,0,2_quartile,N,"Ahlin,",Mrs.
+42,0,2,female,Young Adult,1,0,3_quartile,N,"Turpin,",Mrs.
+43,0,3,male,Unknown,0,0,1_quartile,N,"Kraeff,",Mr.
+44,1,2,female,Baby,1,2,4_quartile,N,"Laroche,",Miss.
+45,1,3,female,Student,0,0,1_quartile,N,"Devaney,",Miss.
+46,0,3,male,Unknown,0,0,2_quartile,N,"Rogers,",Mr.
+47,0,3,male,Unknown,1,0,3_quartile,N,"Lennon,",Mr.
+48,1,3,female,Unknown,0,0,1_quartile,N,"O'Driscoll,",Miss.
+49,0,3,male,Unknown,2,0,3_quartile,N,"Samaan,",Mr.
+50,0,3,female,Teenager,1,0,3_quartile,N,"Arnold-Franchi,",Mrs.
+51,0,3,male,Child,4,1,4_quartile,N,"Panula,",Master.
+52,0,3,male,Student,0,0,1_quartile,N,"Nosworthy,",Mr.
+53,1,1,female,Adult,1,0,4_quartile,D,"Harper,",Mrs.
+54,1,2,female,Young Adult,1,0,3_quartile,N,"Faunthorpe,",Mrs.
+55,0,1,male,Senior,0,1,4_quartile,B,"Ostby,",Mr.
+56,1,1,male,Unknown,0,0,4_quartile,C,"Woolner,",Mr.
+57,1,2,female,Student,0,0,2_quartile,N,"Rugg,",Miss.
+58,0,3,male,Young Adult,0,0,1_quartile,N,"Novel,",Mr.
+59,1,2,female,Baby,1,2,3_quartile,N,"West,",Miss.
+60,0,3,male,Child,5,2,4_quartile,N,"Goodwin,",Master.
+61,0,3,male,Student,0,0,1_quartile,N,"Sirayanian,",Mr.
+62,1,1,female,Adult,0,0,4_quartile,B,"Icard,",Miss.
+63,0,1,male,Adult,1,0,4_quartile,C,"Harris,",Mr.
+64,0,3,male,Baby,3,2,3_quartile,N,"Skoog,",Master.
+65,0,1,male,Unknown,0,0,3_quartile,N,"Stewart,",Mr.
+66,1,3,male,Unknown,1,1,3_quartile,N,"Moubarek,",Master.
+67,1,2,female,Young Adult,0,0,2_quartile,F,"Nye,",Mrs.
+68,0,3,male,Student,0,0,2_quartile,N,"Crease,",Mr.
+69,1,3,female,Teenager,4,2,1_quartile,N,"Andersson,",Miss.
+70,0,3,male,Young Adult,2,0,2_quartile,N,"Kink,",Mr.
+71,0,2,male,Young Adult,0,0,2_quartile,N,"Jenkin,",Mr.
+72,0,3,female,Teenager,5,2,4_quartile,N,"Goodwin,",Miss.
+73,0,2,male,Student,0,0,4_quartile,N,"Hood,",Mr.
+74,0,3,male,Young Adult,1,0,2_quartile,N,"Chronopoulos,",Mr.
+75,1,3,male,Young Adult,0,0,4_quartile,N,"Bing,",Mr.
+76,0,3,male,Student,0,0,1_quartile,F,"Moen,",Mr.
+77,0,3,male,Unknown,0,0,1_quartile,N,"Staneff,",Mr.
+78,0,3,male,Unknown,0,0,2_quartile,N,"Moutal,",Mr.
+79,1,2,male,Baby,0,2,3_quartile,N,"Caldwell,",Master.
+80,1,3,female,Young Adult,0,0,2_quartile,N,"Dowdell,",Miss.
+81,0,3,male,Student,0,0,2_quartile,N,"Waelens,",Mr.
+82,1,3,male,Young Adult,0,0,2_quartile,N,"Sheerlinck,",Mr.
+83,1,3,female,Unknown,0,0,1_quartile,N,"McDermott,",Miss.
+84,0,1,male,Young Adult,0,0,4_quartile,N,"Carrau,",Mr.
+85,1,2,female,Teenager,0,0,2_quartile,N,"Ilett,",Miss.
+86,1,3,female,Young Adult,3,0,3_quartile,N,"Backstrom,",Mrs.
+87,0,3,male,Teenager,1,3,4_quartile,N,"Ford,",Mr.
+88,0,3,male,Unknown,0,0,2_quartile,N,"Slocovski,",Mr.
+89,1,1,female,Student,3,2,4_quartile,C,"Fortune,",Miss.
+90,0,3,male,Student,0,0,2_quartile,N,"Celotti,",Mr.
+91,0,3,male,Young Adult,0,0,2_quartile,N,"Christmann,",Mr.
+92,0,3,male,Student,0,0,1_quartile,N,"Andreasson,",Mr.
+93,0,1,male,Adult,1,0,4_quartile,E,"Chaffee,",Mr.
+94,0,3,male,Young Adult,1,2,3_quartile,N,"Dean,",Mr.
+95,0,3,male,Adult,0,0,1_quartile,N,"Coxon,",Mr.
+96,0,3,male,Unknown,0,0,2_quartile,N,"Shorney,",Mr.
+97,0,1,male,Senior,0,0,4_quartile,A,"Goldschmidt,",Mr.
+98,1,1,male,Student,0,1,4_quartile,D,"Greenfield,",Mr.
+99,1,2,female,Young Adult,0,1,3_quartile,N,"Doling,",Mrs.
+100,0,2,male,Young Adult,1,0,3_quartile,N,"Kantor,",Mr.
+101,0,3,female,Young Adult,0,0,1_quartile,N,"Petranec,",Miss.
+102,0,3,male,Unknown,0,0,1_quartile,N,"Petroff,",Mr.
+103,0,1,male,Student,0,1,4_quartile,D,"White,",Mr.
+104,0,3,male,Young Adult,0,0,2_quartile,N,"Johansson,",Mr.
+105,0,3,male,Adult,2,0,1_quartile,N,"Gustafsson,",Mr.
+106,0,3,male,Young Adult,0,0,1_quartile,N,"Mionoff,",Mr.
+107,1,3,female,Student,0,0,1_quartile,N,"Salkjelsvik,",Miss.
+108,1,3,male,Unknown,0,0,1_quartile,N,"Moss,",Mr.
+109,0,3,male,Adult,0,0,1_quartile,N,"Rekic,",Mr.
+110,1,3,female,Unknown,1,0,3_quartile,N,"Moran,",Miss.
+111,0,1,male,Adult,0,0,4_quartile,C,"Porter,",Mr.
+112,0,3,female,Teenager,1,0,2_quartile,N,"Zabour,",Miss.
+113,0,3,male,Student,0,0,2_quartile,N,"Barton,",Mr.
+114,0,3,female,Student,1,0,2_quartile,N,"Jussila,",Miss.
+115,0,3,female,Teenager,0,0,2_quartile,N,"Attalah,",Miss.
+116,0,3,male,Student,0,0,1_quartile,N,"Pekoniemi,",Mr.
+117,0,3,male,Senior,0,0,1_quartile,N,"Connors,",Mr.
+118,0,2,male,Young Adult,1,0,3_quartile,N,"Turpin,",Mr.
+119,0,1,male,Student,0,1,4_quartile,B,"Baxter,",Mr.
+120,0,3,female,Baby,4,2,4_quartile,N,"Andersson,",Miss.
+121,0,2,male,Student,2,0,4_quartile,N,"Hickman,",Mr.
+122,0,3,male,Unknown,0,0,2_quartile,N,"Moore,",Mr.
+123,0,2,male,Young Adult,1,0,3_quartile,N,"Nasser,",Mr.
+124,1,2,female,Young Adult,0,0,2_quartile,E,"Webber,",Miss.
+125,0,1,male,Adult,0,1,4_quartile,D,"White,",Mr.
+126,1,3,male,Child,1,0,2_quartile,N,"Nicola-Yarred,",Master.
+127,0,3,male,Unknown,0,0,1_quartile,N,"McMahon,",Mr.
+128,1,3,male,Student,0,0,1_quartile,N,"Madsen,",Mr.
+129,1,3,female,Unknown,1,1,3_quartile,F,"Peter,",Miss.
+130,0,3,male,Adult,0,0,1_quartile,N,"Ekstrom,",Mr.
+131,0,3,male,Young Adult,0,0,1_quartile,N,"Drazenoic,",Mr.
+132,0,3,male,Student,0,0,1_quartile,N,"Coelho,",Mr.
+133,0,3,female,Adult,1,0,2_quartile,N,"Robins,",Mrs.
+134,1,2,female,Young Adult,1,0,3_quartile,N,"Weisz,",Mrs.
+135,0,2,male,Student,0,0,2_quartile,N,"Sobey,",Mr.
+136,0,2,male,Student,0,0,3_quartile,N,"Richard,",Mr.
+137,1,1,female,Student,0,2,3_quartile,D,"Newsom,",Miss.
+138,0,1,male,Adult,1,0,4_quartile,C,"Futrelle,",Mr.
+139,0,3,male,Teenager,0,0,2_quartile,N,"Osen,",Mr.
+140,0,1,male,Student,0,0,4_quartile,B,"Giglio,",Mr.
+141,0,3,female,Unknown,0,2,3_quartile,N,"Boulos,",Mrs.
+142,1,3,female,Student,0,0,1_quartile,N,"Nysten,",Miss.
+143,1,3,female,Student,1,0,3_quartile,N,"Hakkarainen,",Mrs.
+144,0,3,male,Student,0,0,1_quartile,N,"Burke,",Mr.
+145,0,2,male,Teenager,0,0,2_quartile,N,"Andrew,",Mr.
+146,0,2,male,Student,1,1,4_quartile,N,"Nicholls,",Mr.
+147,1,3,male,Young Adult,0,0,1_quartile,N,"Andersson,",Mr.
+148,0,3,female,Child,2,2,4_quartile,N,"Ford,",Miss.
+149,0,2,male,Adult,0,2,3_quartile,F,"Navratil,",Mr.
+150,0,2,male,Adult,0,0,2_quartile,N,"Byles,",Rev.
+151,0,2,male,Adult,0,0,2_quartile,N,"Bateman,",Rev.
+152,1,1,female,Student,1,0,4_quartile,C,"Pears,",Mrs.
+153,0,3,male,Adult,0,0,2_quartile,N,"Meo,",Mr.
+154,0,3,male,Adult,0,2,2_quartile,N,van,"Billiard,"
+155,0,3,male,Unknown,0,0,1_quartile,N,"Olsen,",Mr.
+156,0,1,male,Adult,0,1,4_quartile,N,"Williams,",Mr.
+157,1,3,female,Teenager,0,0,1_quartile,N,"Gilnagh,",Miss.
+158,0,3,male,Young Adult,0,0,2_quartile,N,"Corn,",Mr.
+159,0,3,male,Unknown,0,0,2_quartile,N,"Smiljanic,",Mr.
+160,0,3,male,Unknown,8,2,4_quartile,N,"Sage,",Master.
+161,0,3,male,Adult,0,1,3_quartile,N,"Cribb,",Mr.
+162,1,2,female,Adult,0,0,3_quartile,N,"Watt,",Mrs.
+163,0,3,male,Young Adult,0,0,1_quartile,N,"Bengtsson,",Mr.
+164,0,3,male,Teenager,0,0,2_quartile,N,"Calic,",Mr.
+165,0,3,male,Baby,4,1,4_quartile,N,"Panula,",Master.
+166,1,3,male,Child,0,2,3_quartile,N,"Goldsmith,",Master.
+167,1,1,female,Unknown,0,1,4_quartile,E,"Chibnall,",Mrs.
+168,0,3,female,Adult,1,4,3_quartile,N,"Skoog,",Mrs.
+169,0,1,male,Unknown,0,0,3_quartile,N,"Baumann,",Mr.
+170,0,3,male,Young Adult,0,0,4_quartile,N,"Ling,",Mr.
+171,0,1,male,Senior,0,0,4_quartile,B,Van,der
+172,0,3,male,Baby,4,1,3_quartile,N,"Rice,",Master.
+173,1,3,female,Baby,1,1,2_quartile,N,"Johnson,",Miss.
+174,0,3,male,Student,0,0,1_quartile,N,"Sivola,",Mr.
+175,0,1,male,Adult,0,0,3_quartile,A,"Smith,",Mr.
+176,0,3,male,Teenager,1,1,1_quartile,N,"Klasen,",Mr.
+177,0,3,male,Unknown,3,1,3_quartile,N,"Lefebre,",Master.
+178,0,1,female,Adult,0,0,3_quartile,C,"Isham,",Miss.
+179,0,2,male,Young Adult,0,0,2_quartile,N,"Hale,",Mr.
+180,0,3,male,Adult,0,0,Unknown,N,"Leonard,",Mr.
+181,0,3,female,Unknown,8,2,4_quartile,N,"Sage,",Miss.
+182,0,2,male,Unknown,0,0,3_quartile,N,"Pernot,",Mr.
+183,0,3,male,Child,4,2,4_quartile,N,"Asplund,",Master.
+184,1,2,male,Baby,2,1,4_quartile,F,"Becker,",Master.
+185,1,3,female,Baby,0,2,3_quartile,N,"Kink-Heilmann,",Miss.
+186,0,1,male,Unknown,0,0,4_quartile,A,"Rood,",Mr.
+187,1,3,female,Unknown,1,0,3_quartile,N,"O'Brien,",Mrs.
+188,1,1,male,Adult,0,0,3_quartile,N,"Romaine,",Mr.
+189,0,3,male,Adult,1,1,3_quartile,N,"Bourke,",Mr.
+190,0,3,male,Adult,0,0,1_quartile,N,"Turcin,",Mr.
+191,1,2,female,Young Adult,0,0,2_quartile,N,"Pinsky,",Mrs.
+192,0,2,male,Student,0,0,2_quartile,N,"Carbines,",Mr.
+193,1,3,female,Student,1,0,1_quartile,N,"Andersen-Jensen,",Miss.
+194,1,2,male,Baby,1,1,3_quartile,F,"Navratil,",Master.
+195,1,1,female,Adult,0,0,3_quartile,B,"Brown,",Mrs.
+196,1,1,female,Adult,0,0,4_quartile,B,"Lurette,",Miss.
+197,0,3,male,Unknown,0,0,1_quartile,N,"Mernagh,",Mr.
+198,0,3,male,Adult,0,1,2_quartile,N,"Olsen,",Mr.
+199,1,3,female,Unknown,0,0,1_quartile,N,"Madigan,",Miss.
+200,0,2,female,Student,0,0,2_quartile,N,"Yrois,",Miss.
+201,0,3,male,Young Adult,0,0,2_quartile,N,Vande,"Walle,"
+202,0,3,male,Unknown,8,2,4_quartile,N,"Sage,",Mr.
+203,0,3,male,Young Adult,0,0,1_quartile,N,"Johanson,",Mr.
+204,0,3,male,Adult,0,0,1_quartile,N,"Youseff,",Mr.
+205,1,3,male,Teenager,0,0,2_quartile,N,"Cohen,",Mr.
+206,0,3,female,Baby,0,1,2_quartile,G,"Strom,",Miss.
+207,0,3,male,Young Adult,1,0,3_quartile,N,"Backstrom,",Mr.
+208,1,3,male,Young Adult,0,0,3_quartile,N,"Albimona,",Mr.
+209,1,3,female,Teenager,0,0,1_quartile,N,"Carr,",Miss.
+210,1,1,male,Adult,0,0,3_quartile,A,"Blank,",Mr.
+211,0,3,male,Student,0,0,1_quartile,N,"Ali,",Mr.
+212,1,2,female,Young Adult,0,0,3_quartile,N,"Cameron,",Miss.
+213,0,3,male,Student,0,0,1_quartile,N,"Perkin,",Mr.
+214,0,2,male,Young Adult,0,0,2_quartile,N,"Givard,",Mr.
+215,0,3,male,Unknown,1,0,1_quartile,N,"Kiernan,",Mr.
+216,1,1,female,Young Adult,1,0,4_quartile,D,"Newell,",Miss.
+217,1,3,female,Young Adult,0,0,1_quartile,N,"Honkanen,",Miss.
+218,0,2,male,Adult,1,0,3_quartile,N,"Jacobsohn,",Mr.
+219,1,1,female,Young Adult,0,0,4_quartile,D,"Bazzani,",Miss.
+220,0,2,male,Young Adult,0,0,2_quartile,N,"Harris,",Mr.
+221,1,3,male,Teenager,0,0,2_quartile,N,"Sunderland,",Mr.
+222,0,2,male,Young Adult,0,0,2_quartile,N,"Bracken,",Mr.
+223,0,3,male,Adult,0,0,2_quartile,N,"Green,",Mr.
+224,0,3,male,Unknown,0,0,1_quartile,N,"Nenkoff,",Mr.
+225,1,1,male,Adult,1,0,4_quartile,C,"Hoyt,",Mr.
+226,0,3,male,Student,0,0,2_quartile,N,"Berglund,",Mr.
+227,1,2,male,Student,0,0,2_quartile,N,"Mellors,",Mr.
+228,0,3,male,Student,0,0,1_quartile,N,"Lovell,",Mr.
+229,0,2,male,Teenager,0,0,2_quartile,N,"Fahlstrom,",Mr.
+230,0,3,female,Unknown,3,1,3_quartile,N,"Lefebre,",Miss.
+231,1,1,female,Young Adult,1,0,4_quartile,C,"Harris,",Mrs.
+232,0,3,male,Young Adult,0,0,1_quartile,N,"Larsson,",Mr.
+233,0,2,male,Adult,0,0,2_quartile,N,"Sjostedt,",Mr.
+234,1,3,female,Baby,4,2,4_quartile,N,"Asplund,",Miss.
+235,0,2,male,Student,0,0,2_quartile,N,"Leyson,",Mr.
+236,0,3,female,Unknown,0,0,1_quartile,N,"Harknett,",Miss.
+237,0,2,male,Adult,1,0,3_quartile,N,"Hold,",Mr.
+238,1,2,female,Child,0,2,3_quartile,N,"Collyer,",Miss.
+239,0,2,male,Student,0,0,2_quartile,N,"Pengelly,",Mr.
+240,0,2,male,Young Adult,0,0,2_quartile,N,"Hunt,",Mr.
+241,0,3,female,Unknown,1,0,2_quartile,N,"Zabour,",Miss.
+242,1,3,female,Unknown,1,0,3_quartile,N,"Murphy,",Miss.
+243,0,2,male,Young Adult,0,0,2_quartile,N,"Coleridge,",Mr.
+244,0,3,male,Student,0,0,1_quartile,N,"Maenpaa,",Mr.
+245,0,3,male,Young Adult,0,0,1_quartile,N,"Attalah,",Mr.
+246,0,1,male,Adult,2,0,4_quartile,C,"Minahan,",Dr.
+247,0,3,female,Student,0,0,1_quartile,N,"Lindahl,",Miss.
+248,1,2,female,Student,0,2,2_quartile,N,"Hamalainen,",Mrs.
+249,1,1,male,Adult,1,1,4_quartile,D,"Beckwith,",Mr.
+250,0,2,male,Adult,1,0,3_quartile,N,"Carter,",Rev.
+251,0,3,male,Unknown,0,0,1_quartile,N,"Reed,",Mr.
+252,0,3,female,Young Adult,1,1,2_quartile,G,"Strom,",Mrs.
+253,0,1,male,Senior,0,0,3_quartile,C,"Stead,",Mr.
+254,0,3,male,Young Adult,1,0,3_quartile,N,"Lobb,",Mr.
+255,0,3,female,Adult,0,2,3_quartile,N,"Rosblom,",Mrs.
+256,1,3,female,Young Adult,0,2,3_quartile,N,"Touma,",Mrs.
+257,1,1,female,Unknown,0,0,4_quartile,N,"Thorne,",Mrs.
+258,1,1,female,Young Adult,0,0,4_quartile,B,"Cherry,",Miss.
+259,1,1,female,Young Adult,0,0,4_quartile,N,"Ward,",Miss.
+260,1,2,female,Adult,0,1,3_quartile,N,"Parrish,",Mrs.
+261,0,3,male,Unknown,0,0,1_quartile,N,"Smith,",Mr.
+262,1,3,male,Baby,4,2,4_quartile,N,"Asplund,",Master.
+263,0,1,male,Adult,1,1,4_quartile,E,"Taussig,",Mr.
+264,0,1,male,Adult,0,0,Unknown,B,"Harrison,",Mr.
+265,0,3,female,Unknown,0,0,1_quartile,N,"Henry,",Miss.
+266,0,2,male,Adult,0,0,2_quartile,N,"Reeves,",Mr.
+267,0,3,male,Teenager,4,1,4_quartile,N,"Panula,",Mr.
+268,1,3,male,Student,1,0,1_quartile,N,"Persson,",Mr.
+269,1,1,female,Adult,0,1,4_quartile,C,"Graham,",Mrs.
+270,1,1,female,Young Adult,0,0,4_quartile,C,"Bissette,",Miss.
+271,0,1,male,Unknown,0,0,3_quartile,N,"Cairns,",Mr.
+272,1,3,male,Student,0,0,Unknown,N,"Tornquist,",Mr.
+273,1,2,female,Adult,0,1,3_quartile,N,"Mellinger,",Mrs.
+274,0,1,male,Adult,0,1,3_quartile,C,"Natsch,",Mr.
+275,1,3,female,Unknown,0,0,1_quartile,N,"Healy,",Miss.
+276,1,1,female,Senior,1,0,4_quartile,D,"Andrews,",Miss.
+277,0,3,female,Adult,0,0,1_quartile,N,"Lindblom,",Miss.
+278,0,2,male,Unknown,0,0,Unknown,N,"Parkes,",Mr.
+279,0,3,male,Child,4,1,3_quartile,N,"Rice,",Master.
+280,1,3,female,Young Adult,1,1,3_quartile,N,"Abbott,",Mrs.
+281,0,3,male,Senior,0,0,1_quartile,N,"Duane,",Mr.
+282,0,3,male,Young Adult,0,0,1_quartile,N,"Olsson,",Mr.
+283,0,3,male,Teenager,0,0,2_quartile,N,de,"Pelsmaeker,"
+284,1,3,male,Student,0,0,2_quartile,N,"Dorking,",Mr.
+285,0,1,male,Unknown,0,0,3_quartile,A,"Smith,",Mr.
+286,0,3,male,Young Adult,0,0,2_quartile,N,"Stankovic,",Mr.
+287,1,3,male,Young Adult,0,0,2_quartile,N,de,"Mulder,"
+288,0,3,male,Student,0,0,1_quartile,N,"Naidenoff,",Mr.
+289,1,2,male,Adult,0,0,2_quartile,N,"Hosono,",Mr.
+290,1,3,female,Student,0,0,1_quartile,N,"Connolly,",Miss.
+291,1,1,female,Young Adult,0,0,4_quartile,N,"Barber,",Miss.
+292,1,1,female,Student,1,0,4_quartile,B,"Bishop,",Mrs.
+293,0,2,male,Adult,0,0,2_quartile,D,"Levy,",Mr.
+294,0,3,female,Student,0,0,2_quartile,N,"Haas,",Miss.
+295,0,3,male,Student,0,0,1_quartile,N,"Mineff,",Mr.
+296,0,1,male,Unknown,0,0,3_quartile,N,"Lewy,",Mr.
+297,0,3,male,Student,0,0,1_quartile,N,"Hanna,",Mr.
+298,0,1,female,Baby,1,2,4_quartile,C,"Allison,",Miss.
+299,1,1,male,Unknown,0,0,3_quartile,C,"Saalfeld,",Mr.
+300,1,1,female,Adult,0,1,4_quartile,B,"Baxter,",Mrs.
+301,1,3,female,Unknown,0,0,1_quartile,N,"Kelly,",Miss.
+302,1,3,male,Unknown,2,0,3_quartile,N,"McCoy,",Mr.
+303,0,3,male,Student,0,0,Unknown,N,"Johnson,",Mr.
+304,1,2,female,Unknown,0,0,2_quartile,E,"Keane,",Miss.
+305,0,3,male,Unknown,0,0,2_quartile,N,"Williams,",Mr.
+306,1,1,male,Baby,1,2,4_quartile,C,"Allison,",Master.
+307,1,1,female,Unknown,0,0,4_quartile,N,"Fleming,",Miss.
+308,1,1,female,Teenager,1,0,4_quartile,C,Penasco,y
+309,0,2,male,Young Adult,1,0,3_quartile,N,"Abelson,",Mr.
+310,1,1,female,Young Adult,0,0,4_quartile,E,"Francatelli,",Miss.
+311,1,1,female,Student,0,0,4_quartile,C,"Hays,",Miss.
+312,1,1,female,Teenager,2,2,4_quartile,B,"Ryerson,",Miss.
+313,0,2,female,Young Adult,1,1,3_quartile,N,"Lahtinen,",Mrs.
+314,0,3,male,Young Adult,0,0,1_quartile,N,"Hendekovic,",Mr.
+315,0,2,male,Adult,1,1,3_quartile,N,"Hart,",Mr.
+316,1,3,female,Young Adult,0,0,1_quartile,N,"Nilsson,",Miss.
+317,1,2,female,Student,1,0,3_quartile,N,"Kantor,",Mrs.
+318,0,2,male,Adult,0,0,2_quartile,N,"Moraweck,",Dr.
+319,1,1,female,Young Adult,0,2,4_quartile,C,"Wick,",Miss.
+320,1,1,female,Adult,1,1,4_quartile,E,"Spedden,",Mrs.
+321,0,3,male,Student,0,0,1_quartile,N,"Dennis,",Mr.
+322,0,3,male,Young Adult,0,0,1_quartile,N,"Danoff,",Mr.
+323,1,2,female,Young Adult,0,0,2_quartile,N,"Slayter,",Miss.
+324,1,2,female,Student,1,1,3_quartile,N,"Caldwell,",Mrs.
+325,0,3,male,Unknown,8,2,4_quartile,N,"Sage,",Mr.
+326,1,1,female,Adult,0,0,4_quartile,C,"Young,",Miss.
+327,0,3,male,Senior,0,0,1_quartile,N,"Nysveen,",Mr.
+328,1,2,female,Adult,0,0,2_quartile,D,"Ball,",Mrs.
+329,1,3,female,Young Adult,1,1,3_quartile,N,"Goldsmith,",Mrs.
+330,1,1,female,Teenager,0,1,4_quartile,B,"Hippach,",Miss.
+331,1,3,female,Unknown,2,0,3_quartile,N,"McCoy,",Miss.
+332,0,1,male,Adult,0,0,3_quartile,C,"Partner,",Mr.
+333,0,1,male,Adult,0,1,4_quartile,C,"Graham,",Mr.
+334,0,3,male,Teenager,2,0,3_quartile,N,Vander,"Planke,"
+335,1,1,female,Unknown,1,0,4_quartile,N,"Frauenthal,",Mrs.
+336,0,3,male,Unknown,0,0,1_quartile,N,"Denkoff,",Mr.
+337,0,1,male,Young Adult,1,0,4_quartile,C,"Pears,",Mr.
+338,1,1,female,Adult,0,0,4_quartile,E,"Burns,",Miss.
+339,1,3,male,Adult,0,0,2_quartile,N,"Dahl,",Mr.
+340,0,1,male,Adult,0,0,4_quartile,T,"Blackwell,",Mr.
+341,1,2,male,Baby,1,1,3_quartile,F,"Navratil,",Master.
+342,1,1,female,Student,3,2,4_quartile,C,"Fortune,",Miss.
+343,0,2,male,Young Adult,0,0,2_quartile,N,"Collander,",Mr.
+344,0,2,male,Student,0,0,2_quartile,N,"Sedgwick,",Mr.
+345,0,2,male,Adult,0,0,2_quartile,N,"Fox,",Mr.
+346,1,2,female,Student,0,0,2_quartile,F,"Brown,",Miss.
+347,1,2,female,Adult,0,0,2_quartile,N,"Smith,",Miss.
+348,1,3,female,Unknown,1,0,3_quartile,N,"Davison,",Mrs.
+349,1,3,male,Baby,1,1,3_quartile,N,"Coutts,",Master.
+350,0,3,male,Adult,0,0,2_quartile,N,"Dimic,",Mr.
+351,0,3,male,Student,0,0,2_quartile,N,"Odahl,",Mr.
+352,0,1,male,Unknown,0,0,4_quartile,C,"Williams-Lambert,",Mr.
+353,0,3,male,Teenager,1,1,1_quartile,N,"Elias,",Mr.
+354,0,3,male,Student,1,0,3_quartile,N,"Arnold-Franchi,",Mr.
+355,0,3,male,Unknown,0,0,1_quartile,N,"Yousif,",Mr.
+356,0,3,male,Young Adult,0,0,2_quartile,N,Vanden,"Steen,"
+357,1,1,female,Student,0,1,4_quartile,E,"Bowerman,",Miss.
+358,0,2,female,Adult,0,0,2_quartile,N,"Funk,",Miss.
+359,1,3,female,Unknown,0,0,1_quartile,N,"McGovern,",Miss.
+360,1,3,female,Unknown,0,0,1_quartile,N,"Mockler,",Miss.
+361,0,3,male,Adult,1,4,3_quartile,N,"Skoog,",Mr.
+362,0,2,male,Young Adult,1,0,3_quartile,N,del,"Carlo,"
+363,0,3,female,Adult,0,1,2_quartile,N,"Barbara,",Mrs.
+364,0,3,male,Young Adult,0,0,1_quartile,N,"Asim,",Mr.
+365,0,3,male,Unknown,1,0,3_quartile,N,"O'Brien,",Mr.
+366,0,3,male,Young Adult,0,0,1_quartile,N,"Adahl,",Mr.
+367,1,1,female,Adult,1,0,4_quartile,D,"Warren,",Mrs.
+368,1,3,female,Unknown,0,0,1_quartile,N,"Moussa,",Mrs.
+369,1,3,female,Unknown,0,0,1_quartile,N,"Jermyn,",Miss.
+370,1,1,female,Student,0,0,4_quartile,B,"Aubart,",Mme.
+371,1,1,male,Student,1,0,4_quartile,E,"Harder,",Mr.
+372,0,3,male,Teenager,1,0,1_quartile,N,"Wiklund,",Mr.
+373,0,3,male,Student,0,0,2_quartile,N,"Beavan,",Mr.
+374,0,1,male,Student,0,0,4_quartile,N,"Ringhini,",Mr.
+375,0,3,female,Baby,3,1,3_quartile,N,"Palsson,",Miss.
+376,1,1,female,Unknown,1,0,4_quartile,N,"Meyer,",Mrs.
+377,1,3,female,Student,0,0,1_quartile,N,"Landergren,",Miss.
+378,0,1,male,Young Adult,0,2,4_quartile,C,"Widener,",Mr.
+379,0,3,male,Student,0,0,1_quartile,N,"Betros,",Mr.
+380,0,3,male,Student,0,0,1_quartile,N,"Gustafsson,",Mr.
+381,1,1,female,Adult,0,0,4_quartile,N,"Bidois,",Miss.
+382,1,3,female,Baby,0,2,3_quartile,N,"Nakid,",Miss.
+383,0,3,male,Young Adult,0,0,1_quartile,N,"Tikkanen,",Mr.
+384,1,1,female,Young Adult,1,0,4_quartile,N,"Holverson,",Mrs.
+385,0,3,male,Unknown,0,0,1_quartile,N,"Plotcharsky,",Mr.
+386,0,2,male,Teenager,0,0,4_quartile,N,"Davies,",Mr.
+387,0,3,male,Baby,5,2,4_quartile,N,"Goodwin,",Master.
+388,1,2,female,Adult,0,0,2_quartile,N,"Buss,",Miss.
+389,0,3,male,Unknown,0,0,1_quartile,N,"Sadlier,",Mr.
+390,1,2,female,Teenager,0,0,2_quartile,N,"Lehmann,",Miss.
+391,1,1,male,Adult,1,2,4_quartile,B,"Carter,",Mr.
+392,1,3,male,Student,0,0,1_quartile,N,"Jansson,",Mr.
+393,0,3,male,Young Adult,2,0,1_quartile,N,"Gustafsson,",Mr.
+394,1,1,female,Student,1,0,4_quartile,D,"Newell,",Miss.
+395,1,3,female,Student,0,2,3_quartile,G,"Sandstrom,",Mrs.
+396,0,3,male,Student,0,0,1_quartile,N,"Johansson,",Mr.
+397,0,3,female,Young Adult,0,0,1_quartile,N,"Olsson,",Miss.
+398,0,2,male,Adult,0,0,3_quartile,N,"McKane,",Mr.
+399,0,2,male,Student,0,0,2_quartile,N,"Pain,",Dr.
+400,1,2,female,Young Adult,0,0,2_quartile,N,"Trout,",Mrs.
+401,1,3,male,Adult,0,0,1_quartile,N,"Niskanen,",Mr.
+402,0,3,male,Young Adult,0,0,2_quartile,N,"Adams,",Mr.
+403,0,3,female,Student,1,0,2_quartile,N,"Jussila,",Miss.
+404,0,3,male,Young Adult,1,0,3_quartile,N,"Hakkarainen,",Mr.
+405,0,3,female,Student,0,0,2_quartile,N,"Oreskovic,",Miss.
+406,0,2,male,Young Adult,1,0,3_quartile,N,"Gale,",Mr.
+407,0,3,male,Adult,0,0,1_quartile,N,"Widegren,",Mr.
+408,1,2,male,Baby,1,1,3_quartile,N,"Richards,",Master.
+409,0,3,male,Student,0,0,1_quartile,N,"Birkeland,",Mr.
+410,0,3,female,Unknown,3,1,3_quartile,N,"Lefebre,",Miss.
+411,0,3,male,Unknown,0,0,1_quartile,N,"Sdycoff,",Mr.
+412,0,3,male,Unknown,0,0,1_quartile,N,"Hart,",Mr.
+413,1,1,female,Young Adult,1,0,4_quartile,C,"Minahan,",Miss.
+414,0,2,male,Unknown,0,0,Unknown,N,"Cunningham,",Mr.
+415,1,3,male,Adult,0,0,1_quartile,N,"Sundman,",Mr.
+416,0,3,female,Unknown,0,0,2_quartile,N,"Meek,",Mrs.
+417,1,2,female,Young Adult,1,1,4_quartile,N,"Drew,",Mrs.
+418,1,2,female,Teenager,0,2,2_quartile,N,"Silven,",Miss.
+419,0,2,male,Young Adult,0,0,2_quartile,N,"Matthews,",Mr.
+420,0,3,female,Child,0,2,3_quartile,N,Van,"Impe,"
+421,0,3,male,Unknown,0,0,1_quartile,N,"Gheorgheff,",Mr.
+422,0,3,male,Student,0,0,1_quartile,N,"Charters,",Mr.
+423,0,3,male,Young Adult,0,0,1_quartile,N,"Zimmerman,",Mr.
+424,0,3,female,Young Adult,1,1,2_quartile,N,"Danbom,",Mrs.
+425,0,3,male,Teenager,1,1,3_quartile,N,"Rosblom,",Mr.
+426,0,3,male,Unknown,0,0,1_quartile,N,"Wiseman,",Mr.
+427,1,2,female,Young Adult,1,0,3_quartile,N,"Clarke,",Mrs.
+428,1,2,female,Student,0,0,3_quartile,N,"Phillips,",Miss.
+429,0,3,male,Unknown,0,0,1_quartile,N,"Flynn,",Mr.
+430,1,3,male,Young Adult,0,0,2_quartile,E,"Pickard,",Mr.
+431,1,1,male,Young Adult,0,0,3_quartile,C,"Bjornstrom-Steffansson,",Mr.
+432,1,3,female,Unknown,1,0,3_quartile,N,"Thorneycroft,",Mrs.
+433,1,2,female,Adult,1,0,3_quartile,N,"Louch,",Mrs.
+434,0,3,male,Teenager,0,0,1_quartile,N,"Kallio,",Mr.
+435,0,1,male,Adult,1,0,4_quartile,E,"Silvey,",Mr.
+436,1,1,female,Teenager,1,2,4_quartile,B,"Carter,",Miss.
+437,0,3,female,Student,2,2,4_quartile,N,"Ford,",Miss.
+438,1,2,female,Student,2,3,3_quartile,N,"Richards,",Mrs.
+439,0,1,male,Senior,1,4,4_quartile,C,"Fortune,",Mr.
+440,0,2,male,Young Adult,0,0,2_quartile,N,"Kvillner,",Mr.
+441,1,2,female,Adult,1,1,3_quartile,N,"Hart,",Mrs.
+442,0,3,male,Student,0,0,2_quartile,N,"Hampe,",Mr.
+443,0,3,male,Student,1,0,1_quartile,N,"Petterson,",Mr.
+444,1,2,female,Young Adult,0,0,2_quartile,N,"Reynaldo,",Ms.
+445,1,3,male,Unknown,0,0,2_quartile,N,"Johannesen-Bratthammer,",Mr.
+446,1,1,male,Baby,0,2,4_quartile,A,"Dodge,",Master.
+447,1,2,female,Teenager,0,1,3_quartile,N,"Mellinger,",Miss.
+448,1,1,male,Young Adult,0,0,3_quartile,N,"Seward,",Mr.
+449,1,3,female,Baby,2,1,3_quartile,N,"Baclini,",Miss.
+450,1,1,male,Adult,0,0,3_quartile,C,"Peuchen,",Major.
+451,0,2,male,Adult,1,2,3_quartile,N,"West,",Mr.
+452,0,3,male,Unknown,1,0,3_quartile,N,"Hagland,",Mr.
+453,0,1,male,Young Adult,0,0,3_quartile,C,"Foreman,",Mr.
+454,1,1,male,Adult,1,0,4_quartile,C,"Goldenberg,",Mr.
+455,0,3,male,Unknown,0,0,2_quartile,N,"Peduzzi,",Mr.
+456,1,3,male,Young Adult,0,0,1_quartile,N,"Jalsevac,",Mr.
+457,0,1,male,Senior,0,0,3_quartile,E,"Millet,",Mr.
+458,1,1,female,Unknown,1,0,4_quartile,D,"Kenyon,",Mrs.
+459,1,2,female,Adult,0,0,2_quartile,N,"Toomey,",Miss.
+460,0,3,male,Unknown,0,0,1_quartile,N,"O'Connor,",Mr.
+461,1,1,male,Adult,0,0,3_quartile,E,"Anderson,",Mr.
+462,0,3,male,Young Adult,0,0,2_quartile,N,"Morley,",Mr.
+463,0,1,male,Adult,0,0,4_quartile,E,"Gee,",Mr.
+464,0,2,male,Adult,0,0,2_quartile,N,"Milling,",Mr.
+465,0,3,male,Unknown,0,0,2_quartile,N,"Maisner,",Mr.
+466,0,3,male,Adult,0,0,1_quartile,N,"Goncalves,",Mr.
+467,0,2,male,Unknown,0,0,Unknown,N,"Campbell,",Mr.
+468,0,1,male,Adult,0,0,3_quartile,N,"Smart,",Mr.
+469,0,3,male,Unknown,0,0,1_quartile,N,"Scanlan,",Mr.
+470,1,3,female,Baby,2,1,3_quartile,N,"Baclini,",Miss.
+471,0,3,male,Unknown,0,0,1_quartile,N,"Keefe,",Mr.
+472,0,3,male,Adult,0,0,2_quartile,N,"Cacic,",Mr.
+473,1,2,female,Young Adult,1,2,3_quartile,N,"West,",Mrs.
+474,1,2,female,Student,0,0,2_quartile,D,"Jerwan,",Mrs.
+475,0,3,female,Student,0,0,2_quartile,N,"Strandberg,",Miss.
+476,0,1,male,Unknown,0,0,4_quartile,A,"Clifford,",Mr.
+477,0,2,male,Young Adult,1,0,3_quartile,N,"Renouf,",Mr.
+478,0,3,male,Young Adult,1,0,1_quartile,N,"Braund,",Mr.
+479,0,3,male,Student,0,0,1_quartile,N,"Karlsson,",Mr.
+480,1,3,female,Baby,0,1,2_quartile,N,"Hirvonen,",Miss.
+481,0,3,male,Child,5,2,4_quartile,N,"Goodwin,",Master.
+482,0,2,male,Unknown,0,0,Unknown,N,"Frost,",Mr.
+483,0,3,male,Adult,0,0,2_quartile,N,"Rouse,",Mr.
+484,1,3,female,Senior,0,0,2_quartile,N,"Turkula,",Mrs.
+485,1,1,male,Student,1,0,4_quartile,B,"Bishop,",Mr.
+486,0,3,female,Unknown,3,1,3_quartile,N,"Lefebre,",Miss.
+487,1,1,female,Young Adult,1,0,4_quartile,C,"Hoyt,",Mrs.
+488,0,1,male,Adult,0,0,3_quartile,B,"Kent,",Mr.
+489,0,3,male,Young Adult,0,0,2_quartile,N,"Somerton,",Mr.
+490,1,3,male,Child,1,1,3_quartile,N,"Coutts,",Master.
+491,0,3,male,Unknown,1,0,3_quartile,N,"Hagland,",Mr.
+492,0,3,male,Student,0,0,1_quartile,N,"Windelov,",Mr.
+493,0,1,male,Adult,0,0,3_quartile,C,"Molson,",Mr.
+494,0,1,male,Senior,0,0,4_quartile,N,"Artagaveytia,",Mr.
+495,0,3,male,Student,0,0,2_quartile,N,"Stanley,",Mr.
+496,0,3,male,Unknown,0,0,2_quartile,N,"Yousseff,",Mr.
+497,1,1,female,Adult,1,0,4_quartile,D,"Eustis,",Miss.
+498,0,3,male,Unknown,0,0,3_quartile,N,"Shellard,",Mr.
+499,0,1,female,Student,1,2,4_quartile,C,"Allison,",Mrs.
+500,0,3,male,Student,0,0,1_quartile,N,"Svensson,",Mr.
+501,0,3,male,Teenager,0,0,2_quartile,N,"Calic,",Mr.
+502,0,3,female,Student,0,0,1_quartile,N,"Canavan,",Miss.
+503,0,3,female,Unknown,0,0,1_quartile,N,"O'Sullivan,",Miss.
+504,0,3,female,Adult,0,0,2_quartile,N,"Laitinen,",Miss.
+505,1,1,female,Teenager,0,0,4_quartile,B,"Maioni,",Miss.
+506,0,1,male,Teenager,1,0,4_quartile,C,Penasco,y
+507,1,2,female,Young Adult,0,2,3_quartile,N,"Quick,",Mrs.
+508,1,1,male,Unknown,0,0,3_quartile,N,"Bradley,",Mr.
+509,0,3,male,Young Adult,0,0,3_quartile,N,"Olsen,",Mr.
+510,1,3,male,Young Adult,0,0,4_quartile,N,"Lang,",Mr.
+511,1,3,male,Young Adult,0,0,1_quartile,N,"Daly,",Mr.
+512,0,3,male,Unknown,0,0,2_quartile,N,"Webber,",Mr.
+513,1,1,male,Adult,0,0,3_quartile,E,"McGough,",Mr.
+514,1,1,female,Adult,1,0,4_quartile,N,"Rothschild,",Mrs.
+515,0,3,male,Student,0,0,1_quartile,N,"Coleff,",Mr.
+516,0,1,male,Adult,0,0,4_quartile,D,"Walker,",Mr.
+517,1,2,female,Young Adult,0,0,2_quartile,F,"Lemore,",Mrs.
+518,0,3,male,Unknown,0,0,3_quartile,N,"Ryan,",Mr.
+519,1,2,female,Adult,1,0,3_quartile,N,"Angle,",Mrs.
+520,0,3,male,Young Adult,0,0,1_quartile,N,"Pavlovic,",Mr.
+521,1,1,female,Young Adult,0,0,4_quartile,B,"Perreault,",Miss.
+522,0,3,male,Student,0,0,1_quartile,N,"Vovk,",Mr.
+523,0,3,male,Unknown,0,0,1_quartile,N,"Lahoud,",Mr.
+524,1,1,female,Adult,0,1,4_quartile,B,"Hippach,",Mrs.
+525,0,3,male,Unknown,0,0,1_quartile,N,"Kassem,",Mr.
+526,0,3,male,Adult,0,0,1_quartile,N,"Farrell,",Mr.
+527,1,2,female,Adult,0,0,2_quartile,N,"Ridsdale,",Miss.
+528,0,1,male,Unknown,0,0,4_quartile,C,"Farthing,",Mr.
+529,0,3,male,Adult,0,0,1_quartile,N,"Salonen,",Mr.
+530,0,2,male,Student,2,1,2_quartile,N,"Hocking,",Mr.
+531,1,2,female,Baby,1,1,3_quartile,N,"Quick,",Miss.
+532,0,3,male,Unknown,0,0,1_quartile,N,"Toufik,",Mr.
+533,0,3,male,Teenager,1,1,1_quartile,N,"Elias,",Mr.
+534,1,3,female,Unknown,0,2,3_quartile,N,"Peter,",Mrs.
+535,0,3,female,Young Adult,0,0,2_quartile,N,"Cacic,",Miss.
+536,1,2,female,Child,0,2,3_quartile,N,"Hart,",Miss.
+537,0,1,male,Adult,0,0,3_quartile,B,"Butt,",Major.
+538,1,1,female,Young Adult,0,0,4_quartile,N,"LeRoy,",Miss.
+539,0,3,male,Unknown,0,0,2_quartile,N,"Risien,",Mr.
+540,1,1,female,Student,0,2,4_quartile,B,"Frolicher,",Miss.
+541,1,1,female,Adult,0,2,4_quartile,B,"Crosby,",Miss.
+542,0,3,female,Child,4,2,4_quartile,N,"Andersson,",Miss.
+543,0,3,female,Child,4,2,4_quartile,N,"Andersson,",Miss.
+544,1,2,male,Young Adult,1,0,3_quartile,N,"Beane,",Mr.
+545,0,1,male,Adult,1,0,4_quartile,C,"Douglas,",Mr.
+546,0,1,male,Senior,0,0,3_quartile,N,"Nicholson,",Mr.
+547,1,2,female,Student,1,0,3_quartile,N,"Beane,",Mrs.
+548,1,2,male,Unknown,0,0,2_quartile,N,Padro,y
+549,0,3,male,Young Adult,1,1,3_quartile,N,"Goldsmith,",Mr.
+550,1,2,male,Child,1,1,4_quartile,N,"Davies,",Master.
+551,1,1,male,Teenager,0,2,4_quartile,C,"Thayer,",Mr.
+552,0,2,male,Young Adult,0,0,3_quartile,N,"Sharp,",Mr.
+553,0,3,male,Unknown,0,0,1_quartile,N,"O'Brien,",Mr.
+554,1,3,male,Student,0,0,1_quartile,N,"Leeni,",Mr.
+555,1,3,female,Student,0,0,1_quartile,N,"Ohman,",Miss.
+556,0,1,male,Senior,0,0,3_quartile,N,"Wright,",Mr.
+557,1,1,female,Adult,1,0,4_quartile,A,Duff,"Gordon,"
+558,0,1,male,Unknown,0,0,4_quartile,N,"Robbins,",Mr.
+559,1,1,female,Adult,1,1,4_quartile,E,"Taussig,",Mrs.
+560,1,3,female,Adult,1,0,3_quartile,N,de,"Messemaeker,"
+561,0,3,male,Unknown,0,0,1_quartile,N,"Morrow,",Mr.
+562,0,3,male,Adult,0,0,1_quartile,N,"Sivic,",Mr.
+563,0,2,male,Young Adult,0,0,2_quartile,N,"Norman,",Mr.
+564,0,3,male,Unknown,0,0,2_quartile,N,"Simmons,",Mr.
+565,0,3,female,Unknown,0,0,2_quartile,N,"Meanwell,",Miss.
+566,0,3,male,Student,2,0,3_quartile,N,"Davies,",Mr.
+567,0,3,male,Student,0,0,1_quartile,N,"Stoytcheff,",Mr.
+568,0,3,female,Young Adult,0,4,3_quartile,N,"Palsson,",Mrs.
+569,0,3,male,Unknown,0,0,1_quartile,N,"Doharr,",Mr.
+570,1,3,male,Young Adult,0,0,1_quartile,N,"Jonsson,",Mr.
+571,1,2,male,Senior,0,0,2_quartile,N,"Harris,",Mr.
+572,1,1,female,Adult,2,0,4_quartile,C,"Appleton,",Mrs.
+573,1,1,male,Adult,0,0,3_quartile,E,"Flynn,",Mr.
+574,1,3,female,Unknown,0,0,1_quartile,N,"Kelly,",Miss.
+575,0,3,male,Teenager,0,0,2_quartile,N,"Rush,",Mr.
+576,0,3,male,Student,0,0,2_quartile,N,"Patchett,",Mr.
+577,1,2,female,Young Adult,0,0,2_quartile,N,"Garside,",Miss.
+578,1,1,female,Adult,1,0,4_quartile,E,"Silvey,",Mrs.
+579,0,3,female,Unknown,1,0,2_quartile,N,"Caram,",Mrs.
+580,1,3,male,Young Adult,0,0,1_quartile,N,"Jussila,",Mr.
+581,1,2,female,Student,1,1,3_quartile,N,"Christy,",Miss.
+582,1,1,female,Adult,1,1,4_quartile,C,"Thayer,",Mrs.
+583,0,2,male,Adult,0,0,3_quartile,N,"Downton,",Mr.
+584,0,1,male,Adult,0,0,4_quartile,A,"Ross,",Mr.
+585,0,3,male,Unknown,0,0,2_quartile,N,"Paulner,",Mr.
+586,1,1,female,Teenager,0,2,4_quartile,E,"Taussig,",Miss.
+587,0,2,male,Adult,0,0,2_quartile,N,"Jarvis,",Mr.
+588,1,1,male,Adult,1,1,4_quartile,B,"Frolicher-Stehli,",Mr.
+589,0,3,male,Student,0,0,2_quartile,N,"Gilinski,",Mr.
+590,0,3,male,Unknown,0,0,2_quartile,N,"Murdlin,",Mr.
+591,0,3,male,Young Adult,0,0,1_quartile,N,"Rintamaki,",Mr.
+592,1,1,female,Adult,1,0,4_quartile,D,"Stephenson,",Mrs.
+593,0,3,male,Adult,0,0,1_quartile,N,"Elsbury,",Mr.
+594,0,3,female,Unknown,0,2,1_quartile,N,"Bourke,",Miss.
+595,0,2,male,Adult,1,0,3_quartile,N,"Chapman,",Mr.
+596,0,3,male,Adult,1,1,3_quartile,N,Van,"Impe,"
+597,1,2,female,Unknown,0,0,4_quartile,N,"Leitch,",Miss.
+598,0,3,male,Adult,0,0,Unknown,N,"Johnson,",Mr.
+599,0,3,male,Unknown,0,0,1_quartile,N,"Boulos,",Mr.
+600,1,1,male,Adult,1,0,4_quartile,A,Duff,"Gordon,"
+601,1,2,female,Student,2,1,3_quartile,N,"Jacobsohn,",Mrs.
+602,0,3,male,Unknown,0,0,1_quartile,N,"Slabenoff,",Mr.
+603,0,1,male,Unknown,0,0,4_quartile,N,"Harrington,",Mr.
+604,0,3,male,Adult,0,0,2_quartile,N,"Torber,",Mr.
+605,1,1,male,Young Adult,0,0,3_quartile,N,"Homer,",Mr.
+606,0,3,male,Adult,1,0,3_quartile,N,"Lindell,",Mr.
+607,0,3,male,Young Adult,0,0,1_quartile,N,"Karaic,",Mr.
+608,1,1,male,Young Adult,0,0,3_quartile,N,"Daniel,",Mr.
+609,1,2,female,Student,1,2,4_quartile,N,"Laroche,",Mrs.
+610,1,1,female,Adult,0,0,4_quartile,C,"Shutes,",Miss.
+611,0,3,female,Adult,1,5,4_quartile,N,"Andersson,",Mrs.
+612,0,3,male,Unknown,0,0,1_quartile,N,"Jardin,",Mr.
+613,1,3,female,Unknown,1,0,3_quartile,N,"Murphy,",Miss.
+614,0,3,male,Unknown,0,0,1_quartile,N,"Horgan,",Mr.
+615,0,3,male,Young Adult,0,0,2_quartile,N,"Brocklebank,",Mr.
+616,1,2,female,Student,1,2,4_quartile,N,"Herman,",Miss.
+617,0,3,male,Young Adult,1,1,2_quartile,N,"Danbom,",Mr.
+618,0,3,female,Young Adult,1,0,3_quartile,N,"Lobb,",Mrs.
+619,1,2,female,Baby,2,1,4_quartile,F,"Becker,",Miss.
+620,0,2,male,Young Adult,0,0,2_quartile,N,"Gavey,",Mr.
+621,0,3,male,Young Adult,1,0,2_quartile,N,"Yasbeck,",Mr.
+622,1,1,male,Adult,1,0,4_quartile,D,"Kimball,",Mr.
+623,1,3,male,Student,1,1,3_quartile,N,"Nakid,",Mr.
+624,0,3,male,Student,0,0,1_quartile,N,"Hansen,",Mr.
+625,0,3,male,Student,0,0,3_quartile,N,"Bowen,",Mr.
+626,0,1,male,Senior,0,0,4_quartile,D,"Sutton,",Mr.
+627,0,2,male,Adult,0,0,2_quartile,N,"Kirkland,",Rev.
+628,1,1,female,Student,0,0,4_quartile,D,"Longley,",Miss.
+629,0,3,male,Young Adult,0,0,1_quartile,N,"Bostandyeff,",Mr.
+630,0,3,male,Unknown,0,0,1_quartile,N,"O'Connell,",Mr.
+631,1,1,male,Senior,0,0,3_quartile,A,"Barkworth,",Mr.
+632,0,3,male,Adult,0,0,1_quartile,N,"Lundahl,",Mr.
+633,1,1,male,Young Adult,0,0,3_quartile,B,"Stahelin-Maeglin,",Dr.
+634,0,1,male,Unknown,0,0,Unknown,N,"Parr,",Mr.
+635,0,3,female,Child,3,2,3_quartile,N,"Skoog,",Miss.
+636,1,2,female,Young Adult,0,0,2_quartile,N,"Davis,",Miss.
+637,0,3,male,Young Adult,0,0,1_quartile,N,"Leinonen,",Mr.
+638,0,2,male,Young Adult,1,1,3_quartile,N,"Collyer,",Mr.
+639,0,3,female,Adult,0,5,4_quartile,N,"Panula,",Mrs.
+640,0,3,male,Unknown,1,0,3_quartile,N,"Thorneycroft,",Mr.
+641,0,3,male,Student,0,0,1_quartile,N,"Jensen,",Mr.
+642,1,1,female,Student,0,0,4_quartile,B,"Sagesser,",Mlle.
+643,0,3,female,Baby,3,2,3_quartile,N,"Skoog,",Miss.
+644,1,3,male,Unknown,0,0,4_quartile,N,"Foo,",Mr.
+645,1,3,female,Baby,2,1,3_quartile,N,"Baclini,",Miss.
+646,1,1,male,Adult,1,0,4_quartile,D,"Harper,",Mr.
+647,0,3,male,Student,0,0,1_quartile,N,"Cor,",Mr.
+648,1,1,male,Adult,0,0,4_quartile,A,"Simonius-Blumer,",Col.
+649,0,3,male,Unknown,0,0,1_quartile,N,"Willey,",Mr.
+650,1,3,female,Student,0,0,1_quartile,N,"Stanley,",Miss.
+651,0,3,male,Unknown,0,0,1_quartile,N,"Mitkoff,",Mr.
+652,1,2,female,Teenager,0,1,3_quartile,N,"Doling,",Miss.
+653,0,3,male,Student,0,0,2_quartile,N,"Kalvik,",Mr.
+654,1,3,female,Unknown,0,0,1_quartile,N,"O'Leary,",Miss.
+655,0,3,female,Teenager,0,0,1_quartile,N,"Hegarty,",Miss.
+656,0,2,male,Student,2,0,4_quartile,N,"Hickman,",Mr.
+657,0,3,male,Unknown,0,0,1_quartile,N,"Radeff,",Mr.
+658,0,3,female,Young Adult,1,1,3_quartile,N,"Bourke,",Mrs.
+659,0,2,male,Student,0,0,2_quartile,N,"Eitemiller,",Mr.
+660,0,1,male,Adult,0,2,4_quartile,D,"Newell,",Mr.
+661,1,1,male,Adult,2,0,4_quartile,N,"Frauenthal,",Dr.
+662,0,3,male,Adult,0,0,1_quartile,N,"Badt,",Mr.
+663,0,1,male,Adult,0,0,3_quartile,E,"Colley,",Mr.
+664,0,3,male,Adult,0,0,1_quartile,N,"Coleff,",Mr.
+665,1,3,male,Student,1,0,1_quartile,N,"Lindqvist,",Mr.
+666,0,2,male,Young Adult,2,0,4_quartile,N,"Hickman,",Mr.
+667,0,2,male,Student,0,0,2_quartile,N,"Butler,",Mr.
+668,0,3,male,Unknown,0,0,1_quartile,N,"Rommetvedt,",Mr.
+669,0,3,male,Adult,0,0,2_quartile,N,"Cook,",Mr.
+670,1,1,female,Unknown,1,0,4_quartile,C,"Taylor,",Mrs.
+671,1,2,female,Adult,1,1,4_quartile,N,"Brown,",Mrs.
+672,0,1,male,Young Adult,1,0,4_quartile,B,"Davidson,",Mr.
+673,0,2,male,Senior,0,0,2_quartile,N,"Mitchell,",Mr.
+674,1,2,male,Young Adult,0,0,2_quartile,N,"Wilhelms,",Mr.
+675,0,2,male,Unknown,0,0,Unknown,N,"Watson,",Mr.
+676,0,3,male,Teenager,0,0,1_quartile,N,"Edvardsson,",Mr.
+677,0,3,male,Student,0,0,2_quartile,N,"Sawyer,",Mr.
+678,1,3,female,Teenager,0,0,2_quartile,N,"Turja,",Miss.
+679,0,3,female,Adult,1,6,4_quartile,N,"Goodwin,",Mrs.
+680,1,1,male,Adult,0,1,4_quartile,B,"Cardeza,",Mr.
+681,0,3,female,Unknown,0,0,2_quartile,N,"Peters,",Miss.
+682,1,1,male,Young Adult,0,0,4_quartile,D,"Hassab,",Mr.
+683,0,3,male,Student,0,0,2_quartile,N,"Olsvigen,",Mr.
+684,0,3,male,Teenager,5,2,4_quartile,N,"Goodwin,",Mr.
+685,0,2,male,Adult,1,1,4_quartile,N,"Brown,",Mr.
+686,0,2,male,Student,1,2,4_quartile,N,"Laroche,",Mr.
+687,0,3,male,Teenager,4,1,4_quartile,N,"Panula,",Mr.
+688,0,3,male,Student,0,0,2_quartile,N,"Dakic,",Mr.
+689,0,3,male,Teenager,0,0,1_quartile,N,"Fischer,",Mr.
+690,1,1,female,Teenager,0,1,4_quartile,B,"Madill,",Miss.
+691,1,1,male,Young Adult,1,0,4_quartile,B,"Dick,",Mr.
+692,1,3,female,Baby,0,1,2_quartile,N,"Karun,",Miss.
+693,1,3,male,Unknown,0,0,4_quartile,N,"Lam,",Mr.
+694,0,3,male,Student,0,0,1_quartile,N,"Saad,",Mr.
+695,0,1,male,Adult,0,0,3_quartile,N,"Weir,",Col.
+696,0,2,male,Adult,0,0,2_quartile,N,"Chapman,",Mr.
+697,0,3,male,Adult,0,0,2_quartile,N,"Kelly,",Mr.
+698,1,3,female,Unknown,0,0,1_quartile,N,"Mullens,",Miss.
+699,0,1,male,Adult,1,1,4_quartile,C,"Thayer,",Mr.
+700,0,3,male,Adult,0,0,1_quartile,F,"Humblen,",Mr.
+701,1,1,female,Teenager,1,0,4_quartile,C,"Astor,",Mrs.
+702,1,1,male,Young Adult,0,0,3_quartile,E,"Silverthorne,",Mr.
+703,0,3,female,Teenager,0,1,2_quartile,N,"Barbara,",Miss.
+704,0,3,male,Student,0,0,1_quartile,N,"Gallagher,",Mr.
+705,0,3,male,Young Adult,1,0,1_quartile,N,"Hansen,",Mr.
+706,0,2,male,Adult,0,0,3_quartile,N,"Morley,",Mr.
+707,1,2,female,Adult,0,0,2_quartile,N,"Kelly,",Mrs.
+708,1,1,male,Adult,0,0,3_quartile,E,"Calderhead,",Mr.
+709,1,1,female,Student,0,0,4_quartile,N,"Cleaver,",Miss.
+710,1,3,male,Unknown,1,1,3_quartile,N,"Moubarek,",Master.
+711,1,1,female,Student,0,0,4_quartile,C,"Mayne,",Mlle.
+712,0,1,male,Unknown,0,0,3_quartile,C,"Klaber,",Mr.
+713,1,1,male,Adult,1,0,4_quartile,C,"Taylor,",Mr.
+714,0,3,male,Young Adult,0,0,2_quartile,N,"Larsson,",Mr.
+715,0,2,male,Adult,0,0,2_quartile,N,"Greenberg,",Mr.
+716,0,3,male,Student,0,0,1_quartile,F,"Soholt,",Mr.
+717,1,1,female,Adult,0,0,4_quartile,C,"Endres,",Miss.
+718,1,2,female,Young Adult,0,0,2_quartile,E,"Troutt,",Miss.
+719,0,3,male,Unknown,0,0,3_quartile,N,"McEvoy,",Mr.
+720,0,3,male,Young Adult,0,0,1_quartile,N,"Johnson,",Mr.
+721,1,2,female,Child,0,1,4_quartile,N,"Harper,",Miss.
+722,0,3,male,Teenager,1,0,1_quartile,N,"Jensen,",Mr.
+723,0,2,male,Young Adult,0,0,2_quartile,N,"Gillespie,",Mr.
+724,0,2,male,Adult,0,0,2_quartile,N,"Hodges,",Mr.
+725,1,1,male,Young Adult,1,0,4_quartile,E,"Chambers,",Mr.
+726,0,3,male,Student,0,0,2_quartile,N,"Oreskovic,",Mr.
+727,1,2,female,Young Adult,3,0,3_quartile,N,"Renouf,",Mrs.
+728,1,3,female,Unknown,0,0,1_quartile,N,"Mannion,",Miss.
+729,0,2,male,Student,1,0,3_quartile,N,"Bryhl,",Mr.
+730,0,3,female,Student,1,0,1_quartile,N,"Ilmakangas,",Miss.
+731,1,1,female,Young Adult,0,0,4_quartile,B,"Allen,",Miss.
+732,0,3,male,Child,0,0,3_quartile,N,"Hassan,",Mr.
+733,0,2,male,Unknown,0,0,Unknown,N,"Knight,",Mr.
+734,0,2,male,Student,0,0,2_quartile,N,"Berriman,",Mr.
+735,0,2,male,Student,0,0,2_quartile,N,"Troupiansky,",Mr.
+736,0,3,male,Young Adult,0,0,3_quartile,N,"Williams,",Mr.
+737,0,3,female,Adult,1,3,4_quartile,N,"Ford,",Mrs.
+738,1,1,male,Young Adult,0,0,4_quartile,B,"Lesurer,",Mr.
+739,0,3,male,Unknown,0,0,1_quartile,N,"Ivanoff,",Mr.
+740,0,3,male,Unknown,0,0,1_quartile,N,"Nankoff,",Mr.
+741,1,1,male,Unknown,0,0,3_quartile,D,"Hawksford,",Mr.
+742,0,1,male,Adult,1,0,4_quartile,C,"Cavendish,",Mr.
+743,1,1,female,Student,2,2,4_quartile,B,"Ryerson,",Miss.
+744,0,3,male,Student,1,0,3_quartile,N,"McNamee,",Mr.
+745,1,3,male,Young Adult,0,0,1_quartile,N,"Stranden,",Mr.
+746,0,1,male,Senior,1,1,4_quartile,B,"Crosby,",Capt.
+747,0,3,male,Teenager,1,1,3_quartile,N,"Abbott,",Mr.
+748,1,2,female,Young Adult,0,0,2_quartile,N,"Sinkkonen,",Miss.
+749,0,1,male,Student,1,0,4_quartile,D,"Marvin,",Mr.
+750,0,3,male,Young Adult,0,0,1_quartile,N,"Connaghton,",Mr.
+751,1,2,female,Baby,1,1,3_quartile,N,"Wells,",Miss.
+752,1,3,male,Child,0,1,2_quartile,E,"Moor,",Master.
+753,0,3,male,Young Adult,0,0,2_quartile,N,Vande,"Velde,"
+754,0,3,male,Student,0,0,1_quartile,N,"Jonkoff,",Mr.
+755,1,2,female,Adult,1,2,4_quartile,N,"Herman,",Mrs.
+756,1,2,male,Baby,1,1,2_quartile,N,"Hamalainen,",Master.
+757,0,3,male,Young Adult,0,0,1_quartile,N,"Carlsson,",Mr.
+758,0,2,male,Teenager,0,0,2_quartile,N,"Bailey,",Mr.
+759,0,3,male,Young Adult,0,0,2_quartile,N,"Theobald,",Mr.
+760,1,1,female,Young Adult,0,0,4_quartile,B,"Rothes,",the
+761,0,3,male,Unknown,0,0,2_quartile,N,"Garfirth,",Mr.
+762,0,3,male,Adult,0,0,1_quartile,N,"Nirva,",Mr.
+763,1,3,male,Student,0,0,1_quartile,N,"Barah,",Mr.
+764,1,1,female,Adult,1,2,4_quartile,B,"Carter,",Mrs.
+765,0,3,male,Teenager,0,0,1_quartile,N,"Eklund,",Mr.
+766,1,1,female,Adult,1,0,4_quartile,D,"Hogeboom,",Mrs.
+767,0,1,male,Unknown,0,0,4_quartile,N,"Brewe,",Dr.
+768,0,3,female,Young Adult,0,0,1_quartile,N,"Mangan,",Miss.
+769,0,3,male,Unknown,1,0,3_quartile,N,"Moran,",Mr.
+770,0,3,male,Young Adult,0,0,2_quartile,N,"Gronnestad,",Mr.
+771,0,3,male,Student,0,0,2_quartile,N,"Lievens,",Mr.
+772,0,3,male,Adult,0,0,1_quartile,N,"Jensen,",Mr.
+773,0,2,female,Adult,0,0,2_quartile,E,"Mack,",Mrs.
+774,0,3,male,Unknown,0,0,1_quartile,N,"Elias,",Mr.
+775,1,2,female,Adult,1,3,3_quartile,N,"Hocking,",Mrs.
+776,0,3,male,Teenager,0,0,1_quartile,N,"Myhrman,",Mr.
+777,0,3,male,Unknown,0,0,1_quartile,F,"Tobin,",Mr.
+778,1,3,female,Baby,0,0,2_quartile,N,"Emanuel,",Miss.
+779,0,3,male,Unknown,0,0,1_quartile,N,"Kilgannon,",Mr.
+780,1,1,female,Adult,0,1,4_quartile,B,"Robert,",Mrs.
+781,1,3,female,Teenager,0,0,1_quartile,N,"Ayoub,",Miss.
+782,1,1,female,Teenager,1,0,4_quartile,B,"Dick,",Mrs.
+783,0,1,male,Young Adult,0,0,3_quartile,D,"Long,",Mr.
+784,0,3,male,Unknown,1,2,3_quartile,N,"Johnston,",Mr.
+785,0,3,male,Student,0,0,1_quartile,N,"Ali,",Mr.
+786,0,3,male,Student,0,0,1_quartile,N,"Harmer,",Mr.
+787,1,3,female,Teenager,0,0,1_quartile,N,"Sjoblom,",Miss.
+788,0,3,male,Child,4,1,3_quartile,N,"Rice,",Master.
+789,1,3,male,Baby,1,2,3_quartile,N,"Dean,",Master.
+790,0,1,male,Adult,0,0,4_quartile,B,"Guggenheim,",Mr.
+791,0,3,male,Unknown,0,0,1_quartile,N,"Keane,",Mr.
+792,0,2,male,Teenager,0,0,3_quartile,N,"Gaskell,",Mr.
+793,0,3,female,Unknown,8,2,4_quartile,N,"Sage,",Miss.
+794,0,1,male,Unknown,0,0,3_quartile,N,"Hoyt,",Mr.
+795,0,3,male,Student,0,0,1_quartile,N,"Dantcheff,",Mr.
+796,0,2,male,Adult,0,0,2_quartile,N,"Otter,",Mr.
+797,1,1,female,Adult,0,0,3_quartile,D,"Leader,",Dr.
+798,1,3,female,Young Adult,0,0,2_quartile,N,"Osman,",Mrs.
+799,0,3,male,Young Adult,0,0,1_quartile,N,Ibrahim,"Shawah,"
+800,0,3,female,Young Adult,1,1,3_quartile,N,Van,"Impe,"
+801,0,2,male,Young Adult,0,0,2_quartile,N,"Ponesell,",Mr.
+802,1,2,female,Young Adult,1,1,3_quartile,N,"Collyer,",Mrs.
+803,1,1,male,Child,1,2,4_quartile,B,"Carter,",Master.
+804,1,3,male,Baby,0,1,2_quartile,N,"Thomas,",Master.
+805,1,3,male,Young Adult,0,0,1_quartile,N,"Hedman,",Mr.
+806,0,3,male,Young Adult,0,0,1_quartile,N,"Johansson,",Mr.
+807,0,1,male,Adult,0,0,Unknown,A,"Andrews,",Mr.
+808,0,3,female,Teenager,0,0,1_quartile,N,"Pettersson,",Miss.
+809,0,2,male,Adult,0,0,2_quartile,N,"Meyer,",Mr.
+810,1,1,female,Young Adult,1,0,4_quartile,E,"Chambers,",Mrs.
+811,0,3,male,Young Adult,0,0,1_quartile,N,"Alexander,",Mr.
+812,0,3,male,Adult,0,0,3_quartile,N,"Lester,",Mr.
+813,0,2,male,Young Adult,0,0,2_quartile,N,"Slemen,",Mr.
+814,0,3,female,Child,4,2,4_quartile,N,"Andersson,",Miss.
+815,0,3,male,Young Adult,0,0,2_quartile,N,"Tomlin,",Mr.
+816,0,1,male,Unknown,0,0,Unknown,B,"Fry,",Mr.
+817,0,3,female,Student,0,0,1_quartile,N,"Heininen,",Miss.
+818,0,2,male,Young Adult,1,1,4_quartile,N,"Mallet,",Mr.
+819,0,3,male,Adult,0,0,1_quartile,N,"Holm,",Mr.
+820,0,3,male,Child,3,2,3_quartile,N,"Skoog,",Master.
+821,1,1,female,Adult,1,1,4_quartile,B,"Hays,",Mrs.
+822,1,3,male,Young Adult,0,0,2_quartile,N,"Lulic,",Mr.
+823,0,1,male,Adult,0,0,Unknown,N,"Reuchlin,",Jonkheer.
+824,1,3,female,Young Adult,0,1,2_quartile,E,"Moor,",Mrs.
+825,0,3,male,Baby,4,1,4_quartile,N,"Panula,",Master.
+826,0,3,male,Unknown,0,0,1_quartile,N,"Flynn,",Mr.
+827,0,3,male,Unknown,0,0,4_quartile,N,"Lam,",Mr.
+828,1,2,male,Baby,0,2,4_quartile,N,"Mallet,",Master.
+829,1,3,male,Unknown,0,0,1_quartile,N,"McCormack,",Mr.
+830,1,1,female,Senior,0,0,4_quartile,B,"Stone,",Mrs.
+831,1,3,female,Teenager,1,0,2_quartile,N,"Yasbeck,",Mrs.
+832,1,2,male,Baby,1,1,3_quartile,N,"Richards,",Master.
+833,0,3,male,Unknown,0,0,1_quartile,N,"Saad,",Mr.
+834,0,3,male,Student,0,0,1_quartile,N,"Augustsson,",Mr.
+835,0,3,male,Teenager,0,0,2_quartile,N,"Allum,",Mr.
+836,1,1,female,Adult,1,1,4_quartile,E,"Compton,",Miss.
+837,0,3,male,Student,0,0,2_quartile,N,"Pasic,",Mr.
+838,0,3,male,Unknown,0,0,2_quartile,N,"Sirota,",Mr.
+839,1,3,male,Young Adult,0,0,4_quartile,N,"Chip,",Mr.
+840,1,1,male,Unknown,0,0,3_quartile,C,"Marechal,",Mr.
+841,0,3,male,Student,0,0,1_quartile,N,"Alhomaki,",Mr.
+842,0,2,male,Teenager,0,0,2_quartile,N,"Mudd,",Mr.
+843,1,1,female,Young Adult,0,0,3_quartile,N,"Serepeca,",Miss.
+844,0,3,male,Young Adult,0,0,1_quartile,N,"Lemberopolous,",Mr.
+845,0,3,male,Teenager,0,0,2_quartile,N,"Culumovic,",Mr.
+846,0,3,male,Adult,0,0,1_quartile,N,"Abbing,",Mr.
+847,0,3,male,Unknown,8,2,4_quartile,N,"Sage,",Mr.
+848,0,3,male,Young Adult,0,0,1_quartile,N,"Markoff,",Mr.
+849,0,2,male,Young Adult,0,1,4_quartile,N,"Harper,",Rev.
+850,1,1,female,Unknown,1,0,4_quartile,C,"Goldenberg,",Mrs.
+851,0,3,male,Baby,4,2,4_quartile,N,"Andersson,",Master.
+852,0,3,male,Senior,0,0,1_quartile,N,"Svensson,",Mr.
+853,0,3,female,Child,1,1,3_quartile,N,"Boulos,",Miss.
+854,1,1,female,Teenager,0,1,4_quartile,D,"Lines,",Miss.
+855,0,2,female,Adult,1,0,3_quartile,N,"Carter,",Mrs.
+856,1,3,female,Teenager,0,1,2_quartile,N,"Aks,",Mrs.
+857,1,1,female,Adult,1,1,4_quartile,N,"Wick,",Mrs.
+858,1,1,male,Adult,0,0,3_quartile,E,"Daly,",Mr.
+859,1,3,female,Student,0,3,3_quartile,N,"Baclini,",Mrs.
+860,0,3,male,Unknown,0,0,1_quartile,N,"Razi,",Mr.
+861,0,3,male,Adult,2,0,2_quartile,N,"Hansen,",Mr.
+862,0,2,male,Student,1,0,2_quartile,N,"Giles,",Mr.
+863,1,1,female,Adult,0,0,3_quartile,D,"Swift,",Mrs.
+864,0,3,female,Unknown,8,2,4_quartile,N,"Sage,",Miss.
+865,0,2,male,Student,0,0,2_quartile,N,"Gill,",Mr.
+866,1,2,female,Adult,0,0,2_quartile,N,"Bystrom,",Mrs.
+867,1,2,female,Young Adult,1,0,2_quartile,N,Duran,y
+868,0,1,male,Young Adult,0,0,4_quartile,A,"Roebling,",Mr.
+869,0,3,male,Unknown,0,0,2_quartile,N,van,"Melkebeke,"
+870,1,3,male,Baby,1,1,2_quartile,N,"Johnson,",Master.
+871,0,3,male,Young Adult,0,0,1_quartile,N,"Balkic,",Mr.
+872,1,1,female,Adult,1,1,4_quartile,D,"Beckwith,",Mrs.
+873,0,1,male,Young Adult,0,0,1_quartile,B,"Carlsson,",Mr.
+874,0,3,male,Adult,0,0,2_quartile,N,Vander,"Cruyssen,"
+875,1,2,female,Young Adult,1,0,3_quartile,N,"Abelson,",Mrs.
+876,1,3,female,Teenager,0,0,1_quartile,N,"Najib,",Miss.
+877,0,3,male,Student,0,0,2_quartile,N,"Gustafsson,",Mr.
+878,0,3,male,Student,0,0,1_quartile,N,"Petroff,",Mr.
+879,0,3,male,Unknown,0,0,1_quartile,N,"Laleff,",Mr.
+880,1,1,female,Adult,0,1,4_quartile,C,"Potter,",Mrs.
+881,1,2,female,Student,0,1,3_quartile,N,"Shelley,",Mrs.
+882,0,3,male,Young Adult,0,0,1_quartile,N,"Markun,",Mr.
+883,0,3,female,Student,0,0,2_quartile,N,"Dahlberg,",Miss.
+884,0,2,male,Young Adult,0,0,2_quartile,N,"Banfield,",Mr.
+885,0,3,male,Student,0,0,1_quartile,N,"Sutehall,",Mr.
+886,0,3,female,Adult,0,5,3_quartile,N,"Rice,",Mrs.
+887,0,2,male,Young Adult,0,0,2_quartile,N,"Montvila,",Rev.
+888,1,1,female,Student,0,0,3_quartile,B,"Graham,",Miss.
+889,0,3,female,Unknown,1,2,3_quartile,N,"Johnston,",Miss.
+890,1,1,male,Young Adult,0,0,3_quartile,C,"Behr,",Mr.
+891,0,3,male,Young Adult,0,0,1_quartile,N,"Dooley,",Mr.
